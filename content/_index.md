@@ -76,5 +76,5 @@ Added "Preparing to write a novel."
 
 <br>
 
-Made by Cheri Baker using [Quartz](https://github.com/jackyzha0/quartz), © 2022
+Made by Cheri using [Quartz](https://github.com/jackyzha0/quartz), © 2022
 
