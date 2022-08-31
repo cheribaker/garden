@@ -9,7 +9,7 @@ weight: 0
 
 ### Status
 *Updated: 8/30/22*
-
+ 
 I got the book back from my editor today. I'm still feeling too close to the story so I'll let it sit for a week while I get my next few projects set up.
 
 ### To Do
