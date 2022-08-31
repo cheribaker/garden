@@ -67,11 +67,16 @@ Added "Preparing to write a novel."
 
 
 ## Projects ☕
-*I like to keep notes on my projects.*
 
+*Writing*
 - [Hostile Takeover](/notes/hostile-takeover.md)
+- [Shadow of a Doubt](/notes/shadow-doubt.md)
+- [The Case of the Paper Horse](/notes/paper-horse.md)
+- [Project Mars](/notes/project-mars.md)
+
+*Business*
 - [Direct Sales for eBooks](notes/direct-sales.md)
-- 
+
 
 
 <br>

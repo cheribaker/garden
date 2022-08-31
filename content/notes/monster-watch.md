@@ -23,5 +23,11 @@ weight: 0
 
 - [Wikipedia Entry](https://en.wikipedia.org/wiki/Godzilla_1985)   
 
+**7/28/22 Rebirth of Mothra**
+*Delightful.*
 
+**8/18/22 - Ghidorah, the Three-Headed Monster** 
+*With Bonus Mothra Fairies*
 
+**8/25/22 - Invasion of the Astro Monster** 
+*With Aliens from Planet X*
