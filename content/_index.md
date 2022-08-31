@@ -20,7 +20,7 @@ title: 🪴 The Hypertext Monster
 
 ## What's New?
 
-Added "Preparing to write a novel."
+Added three new projects, updated monster movie log, updated existing projects.
 
 
 ## Areas in My Garden 🌲
