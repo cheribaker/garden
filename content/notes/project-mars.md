@@ -17,11 +17,11 @@ I'm getting ready to write.
 1. ~~Story Concept (for full series)~~
 2. ~~Cover Art~~
 3. Complete Prep
-	* Story Summary
+	* ~~Story Summary~~
 	* Major Plot Points
 	* Main Characters
-	* Market Research
-	* Set Up Files & Folders
+	* ~~Market Research~~
+	* ~~Set Up Files & Folders~~
 	* Playlist
 4. First Draft
 

@@ -10,11 +10,11 @@ weight: 0
 ### Status
 *Updated: 8/30/22*
 
-I'm getting ready to write Butterfly Island #3.
+I'm getting ready to write.
 
 ### To Do
 
-Latest release date: March 31, 2023
+
 
 1. ~~Story Concept 
 2. ~~Cover Art~~
@@ -25,3 +25,4 @@ Latest release date: March 31, 2023
 	* ~~Set Up Files & Folders
 	* Playlist
 5. First Draft
+6. Release date: March 31, 2023

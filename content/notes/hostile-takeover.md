@@ -16,8 +16,7 @@ I got the book back from my editor today. I'm still feeling too close to the sto
 
 Send Newsletter
 Upload to All Retailers
-Build & Proof Paperback (P)
-Build & Test eBook (P)
+Build & Proof Book Files
 Draft Newsletter
 Beta Feedback
 Write Blurb/Description
