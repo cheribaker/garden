@@ -1,5 +1,5 @@
 ---
-title: 🪴 Literary Monster
+title: 📚 Literary Monster
 ---
 
 ## Welcome 
@@ -12,7 +12,7 @@ title: 🪴 Literary Monster
 
 ## What's New?
 
-8/31/22 - *Updated Project Pages*
+8/31/22 - *Updated Project Pages, Added Blog.*
 
 ## Projects ☕
 
