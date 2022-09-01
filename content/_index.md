@@ -4,13 +4,13 @@ title: 📚 Literary Monster
 
 ## Welcome 
 
-Hello, I’m Cheri and you've found my wiki, Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process.
+Hello, I’m Cheri and you've found my wiki, Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. Feel free to poke around!
 
-If you enjoyed your visit and feel motivated to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend.
+If you enjoyed your visit and you're motivated to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend.
 
 ## What's New?
 
-8/31/22 - *Updated Project Pages, Added Blog.*
+8/31/22 - *Updated Project Pages, Added [Blog](https://blog.literary.monster).*
 
 ## Projects ☕
 
@@ -75,5 +75,5 @@ If you enjoyed your visit and feel motivated to give something back, you can [bu
 
 <br>
 
-Made by Cheri Baker using [Quartz](https://github.com/jackyzha0/quartz), © 2022
+Made by Cheri using [Quartz](https://github.com/jackyzha0/quartz), © 2022
 

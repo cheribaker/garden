@@ -48,5 +48,4 @@ We've set up standard credit card processing, Shopify Payments (Shop Pay), Googl
 
 ## Current Priorities
 
-We're wrapping up our last few work items and preparing for site migration.
-
+We're wrapping up our last few work items and preparing for site migration. 

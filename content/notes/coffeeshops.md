@@ -1,5 +1,5 @@
 ---
-title: "Coffeeshops"
+title: "Seattle Coffeeshops"
 tags:
 -
 aliases:
@@ -14,6 +14,7 @@ weight: 0
 * Cafe Umbria (dignified)
 * Coffeeholic House (try the salted cream cheese foam)
 * Uptown Espresso (try the *Genera*)
+* KEXP (whenever the sun shines)
 * Cafe Vita (a Seattle classic)
 * Fonte (when you're feeling a bit fancy)
 * Monorail Espresso (delicious, every time)

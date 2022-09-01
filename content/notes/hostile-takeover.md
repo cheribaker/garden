@@ -14,16 +14,15 @@ I got the book back from my editor today. I'm still feeling too close to the sto
 
 ### To Do
 
-Send Newsletter
-Upload to All Retailers
-Build & Proof Book Files
-Draft Newsletter
-Beta Feedback
-Write Blurb/Description
-Write Back Matter
-Review & Approve Edits
-~~Copyedits (Editor)~~
-~~Copyedits (Mine)~~
-~~Revisions~~
-~~First Draft~~
-~~Cover Art~~
+1. Send Newsletter
+2. Upload to All Retailers
+3. Build & Proof Book Files
+4. Draft Newsletter
+5. Write Blurb/Description
+6. Write Back Matter
+7. Review & Approve Edits
+8. ~~Copyedits (Editor)~~
+9. ~~Copyedits (Mine)~~
+10. ~~Revisions~~
+11. ~~First Draft~~
+12. ~~Cover Art~~
