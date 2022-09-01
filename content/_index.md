@@ -10,7 +10,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ## What's New?
 
-8/31/22 - *Updated Project Pages, Added [Blog](https://blog.literary.monster).*
+9/1/22 - *Updated Project Pages, Added [Blog](https://blog.literary.monster), [Space Opera Writing Playlist](/notes/space-opera-playlist)*.
 
 ## Projects ☕
 

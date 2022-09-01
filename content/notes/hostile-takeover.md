@@ -5,24 +5,34 @@ tags:
 weight: 0
 ---
 
-*Notes on my novel-in-process. Spoilers are possible. Read at your own risk.*
+>[!Warning]+Notice
+>
+> Spoilers are possible. Read at your own risk.
 
-### Status
-*Updated: 8/30/22*
- 
-I got the book back from my editor today. I'm still feeling too close to the story so I'll let it sit for a week while I get my next few projects set up.
 
-### To Do
+> [!Info]+Status
+>
+>*Updated: 9/1/22*
+ >
+> Preparing the book for publication.
 
-1. Send Newsletter
-2. Upload to All Retailers
-3. Build & Proof Book Files
-4. Draft Newsletter
-5. Write Blurb/Description
-6. Write Back Matter
-7. Review & Approve Edits
-8. ~~Copyedits (Editor)~~
-9. ~~Copyedits (Mine)~~
-10. ~~Revisions~~
-11. ~~First Draft~~
-12. ~~Cover Art~~
+>[!Example]+ Task List
+>
+> * ~~Cover Art~~
+> * ~~First Draft~~
+> * ~~Revisions~~
+> * ~~Copyedits~~
+> * Front/End Matter
+> * Sales Copy
+
+>[!Important]+ Project Notes
+>
+> **Blog Posts**:
+>[Nobody Knows](https://blog.literary.monster/post/nobody-knows/)
+
+>[!Summary]+ Book Description
+> 
+> TBD
+
+
+

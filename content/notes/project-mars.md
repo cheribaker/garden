@@ -5,33 +5,49 @@ tags:
 weight: 0
 ---
 
-*Notes on my novel-in-process. Spoilers are possible. Read at your own risk.*
 
-### Status
-*Updated: 8/30/22*
 
-I'm getting ready to write. I've got two years' worth of scattered notes and partial outlines that need to be corralled into something useful. :)
 
-The initial name I picked for the story doesn't feel quite right...
+>[!Warning]+Notice
+>
+> Spoilers are possible. Read at your own risk.
 
-### To Do
 
-1. ~~Story Concept (for full series)~~
-2. ~~Cover Art~~
-3. Complete Prep
-	* ~~Story Summary~~
-	* ~Major Plot Points
-	* ~Main Characters
-	* ~~Market Research~~
-	* ~~Set Up Files & Folders~~
-	* ~Playlist
-4. First Draft
+> [!Info]+Status
+>
+>*Updated: 9/1/22*
+>
+> I'm preparing to write. I have two years' worth of notes that need to be corralled into something useful. :)
 
-### Writing Playlist
+>[!Example]+ Task List
+> 
+> * ~~Story Concept (series)~~
+> * ~~Story Concept (book)~~
+> * ~Cover Art
+> * ~Major Plot Points
+> * ~Main Characters
+> * ~Set Up Files & Folders
+> * ~[Playlist](/notes/space-opera-playlist.md)
+> * First Draft
+> * Revisions
+> * Copyedit
+>   
+>   *~ means 'in process'*
 
-* [Hyperspace Drifter by Stilz](https://newretrowave.bandcamp.com/album/hyperspace-drifter-3)
-* [Atlantis by Marvel 83](https://marvel83.bandcamp.com/album/atlantis)
-* Probably something from [Tangerine Dream](https://www.tangerinedreammusic.com/)
+
+
+
+>[!Important]+ Project Notes
+>
+>
+>**Genre:** The series will be [Space Opera](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceOpera) with a few tropes borrowed from [Space Westerns](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceWestern).
+>
+>**POV:** Third Person Omniscient
+
+>[!Summary]+ Book Description
+> 
+> TBD
+
 
 
 
