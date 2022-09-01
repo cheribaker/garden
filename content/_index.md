@@ -1,10 +1,10 @@
 ---
-title: 🪴 The Hypertext Monster
+title: 🪴 Literary Monster
 ---
 
 ## Welcome 
 
-👋 Hello, I’m Cheri and you've found my wiki, The Hypertext Monster. 
+👋 Hello, I’m Cheri and you've found my wiki, Literary Monster.  
 
 📁 This site is a semi-organized heap of my public notes, bookmarks, and projects-in process.
 

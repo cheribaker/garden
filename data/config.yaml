@@ -17,9 +17,12 @@ operandApiKey:
 description:
   Just another digital garden.
 page_title:
-  "🪴 The Hypertext Monster"
+  "🪴 Literary Monster Monster"
 links:
   - link_name: Mastodon
     link: https://writing.exchange/@cheribaker
   - link_name: My Books
     link: https://www.cheribaker.com
+  - link_name: Blog
+    link: https://blog.literary.monster
+    
