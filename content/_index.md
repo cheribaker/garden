@@ -6,11 +6,13 @@ title: 📚 Literary Monster
 
 Hello, I’m Cheri and you've found my wiki, Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. Feel free to poke around!
 
+I'm on <a rel="me" href="https://writing.exchange/@cheribaker">Mastodon</a>, if you'd like to say hello.
+
 If you enjoyed your visit and you're motivated to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend.
 
 ## What's New?
 
-9/1/22 - *Updated Project Pages, Added [Blog](https://blog.literary.monster), [Space Opera Writing Playlist](/notes/space-opera-playlist)*.
+9/2/22 - *Updated [The Case of the Paper Horse](/notes/paper-horse.md), Added  [Cruise Cozies Writing Playlist](/notes/cruise-cozies-playlist.md)*.
 
 ## Projects ☕
 
@@ -26,9 +28,9 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ### Thought of the Day
 
-> “The first draft of anything is shit.” 
+> “Your intuition knows what to write, so get out of the way.” 
 > 
-> **Ernest Hemingway**
+> **Ray Bradbury**
 
 
 ## Garden Beds 🌲

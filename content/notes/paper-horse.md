@@ -14,18 +14,18 @@ weight: 0
 
 > [!Info]+Status
 >
->*Updated: 9/1/22*
+>*Updated: 9/2/22*
 >
- >I'm preparing to write
+ > I'm all prepped and ready to write!  
 
 >[!Example]+ Task List
 > 
 > * ~~Story Concept~~
 > * ~Cover Art
-> * ~Major Plot Points
-> * ~Main Characters
-> * ~Set Up Files & Folders
-> * Playlist
+> * ~~Major Plot Points~~
+> * ~~Main Characters~~
+> * ~~Set Up Files & Folders~~
+> * [Playlist](/notes/cruise-cozies-playlist.md)
 > * First Draft
 > * Revisions
 > * Copyedit
@@ -33,12 +33,13 @@ weight: 0
 >   *~ means 'in process'*
 
 
-
-
 >[!Important]+ Project Notes
 >
 >
->TBD
+> **Starting With:**
+> * A high level outline (25 Bullets)
+> * Brief character notes (names & 2-3 bullet points)
+> * Stock photos for each new character.
 
 >[!Summary]+ Book Description
 > 
