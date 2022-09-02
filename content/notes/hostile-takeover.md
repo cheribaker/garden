@@ -12,9 +12,9 @@ weight: 0
 
 > [!Info]+Status
 >
->*Updated: 9/1/22*
+>*Updated: 9/2/22*
  >
-> Preparing the book for publication.
+> Finishing up sales copy, metadata, and all that jazz. 
 
 >[!Example]+ Task List
 >
@@ -22,7 +22,7 @@ weight: 0
 > * ~~First Draft~~
 > * ~~Revisions~~
 > * ~~Copyedits~~
-> * Front/End Matter
+> * ~~Front/End Matter~~
 > * Sales Copy
 
 >[!Important]+ Project Notes
@@ -32,7 +32,17 @@ weight: 0
 
 >[!Summary]+ Book Description
 > 
-> TBD
+> **First Draft**
+>
+> *_Welcome to the family, Jessica._*  
+>
+>In the aftermath of the attack that nearly ended her life, Jessica has returned to Duke Agency on a mission of desperation. If she can locate and destroy the red files the agency uses to manipulate and extort their people, her long nightmare will be over, once and for all.
+>
+>Yet the deeper she goes undercover, and the closer she becomes to her long-lost family, the more she questions her loyalties. As she comes to terms with her own history and the troubling legacy of the women who came before her, Jessica has to wonder...
+>
+> Has she been fighting on the wrong side, all along?
+
+
 
 
 
