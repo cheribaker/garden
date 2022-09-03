@@ -8,7 +8,7 @@ weight: 0
 *Notes on a project in process.*
 
 ### Status
-We're developing the first version of our store, which will sell e-books only. In the near future, we'll add paperback sales.
+We're in the progress of migrating to the new store and website. (9/3/22)
 
 ### Goals
 - To reduce dependence on e-commerce platforms like Amazon.
@@ -32,8 +32,8 @@ We're developing the first version of our store, which will sell e-books only. I
 It gets a bit complicated! We'll start by selling to these markets.
 * USA
 * Canada
-* UK
-* EU
+* UK - *PENDING*
+* EU - *PENDING*
 * Australia
 * New Zealand
 
@@ -46,6 +46,3 @@ I wrote a FAQ to demystify the process of getting an ebook onto a reader's devic
 #### Payment Processors
 We've set up standard credit card processing, Shopify Payments (Shop Pay), Google Pay, and Apple Pay. I was tempted to add Paypal but the sheer number of "they fucked us sideways" stories from small businesses scared me off Paypal for now.
 
-## Current Priorities
-
-We're wrapping up our last few work items and preparing for site migration. 

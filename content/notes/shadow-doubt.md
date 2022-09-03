@@ -14,7 +14,7 @@ weight: 0
 >
 >*Updated: 9/1/22*
 >
- >I'm writing the first draft.
+ >I've started the first draft.
 
 >[!Example]+ Task List
 >

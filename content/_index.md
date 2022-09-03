@@ -12,7 +12,8 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ## What's New?
 
-9/2/22 - *Updated [The Case of the Paper Horse](/notes/paper-horse.md), Added  [Cruise Cozies Writing Playlist](/notes/cruise-cozies-playlist.md)*.
+9/3/22 - *Updated [Project Mars](/notes/project-mars) with the fisr draft of my book description.*
+
 
 ## Projects ☕
 
