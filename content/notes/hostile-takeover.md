@@ -12,9 +12,9 @@ weight: 0
 
 > [!Info]+Status
 >
->*Updated: 9/2/22*
+>*Updated: 9/5/22*
  >
-> Finishing up sales copy, metadata, and all that jazz. 
+> Creating book files.
 
 >[!Example]+ Task List
 >
@@ -23,7 +23,7 @@ weight: 0
 > * ~~Revisions~~
 > * ~~Copyedits~~
 > * ~~Front/End Matter~~
-> * Sales Copy
+> * ~~Sales Copy~~
 
 >[!Important]+ Project Notes
 >
@@ -32,15 +32,15 @@ weight: 0
 
 >[!Summary]+ Book Description
 > 
-> **First Draft**
+> *_Welcome to the family, Jessica Warne_*  
+> 
+>After the brutal attack that nearly killed her, Jessica returned to the Duke Agency to embark on a desperate mission. Now that she understands the true aims of her employer, she's determined to free the assistants from her family's dangerous grasp. In presenting herself as an ally to her aunt and uncles, she hopes to find a way to destroy the red files used to keep every assistant in line.
 >
-> *_Welcome to the family, Jessica._*  
->
->In the aftermath of the attack that nearly ended her life, Jessica has returned to Duke Agency on a mission of desperation. If she can locate and destroy the red files the agency uses to manipulate and extort their people, her long nightmare will be over, once and for all.
->
->Yet the deeper she goes undercover, and the closer she becomes to her long-lost family, the more she questions her loyalties. As she comes to terms with her own history and the troubling legacy of the women who came before her, Jessica has to wonder...
->
-> Has she been fighting on the wrong side, all along?
+>That starts with seeking the weakness in her adversary's defenses. Yet the deeper she goes undercover, the closer Jessica becomes to the family she never knew. She'd been prepared for cruelty, even violence. What she hadn't  imagined was their kindness and generosity. For the first time in her life,  has she found the place where she belongs? As she struggles to do what she believes is right, and as she grapples with the troubling legacy left by her mother, aunt, and grandmother, Jessica has to wonder...
+> 
+> Where should her loyalties lie?
+> 
+
 
 
 

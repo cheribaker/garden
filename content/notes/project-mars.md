@@ -13,9 +13,9 @@ weight: 0
 
 > [!Info]+Status
 >
->*Updated: 9/3/22*
+>*Updated: 9/5/22*
 >
-> Draft description, plot points, and cover art complete.  Character notes need a bit more work.
+> Ready to write!
 
 >[!Example]+ Task List
 > 
@@ -23,9 +23,9 @@ weight: 0
 > * ~~Story Concept (book)~~
 > * ~~Cover Art~~
 > * ~~Major Plot Points~~
-> * ~Main Characters
+> * ~~Main Characters~~
 > * ~~Set Up Files & Folders~~
-> * ~[Playlist](/notes/space-opera-playlist.md)
+> * [Playlist](/notes/space-opera-playlist.md)
 > * First Draft
 > * Revisions
 > * Copyedit
@@ -36,9 +36,26 @@ weight: 0
 >[!Important]+ Project Notes
 >
 >
->**Genre:** The series will be [Space Opera](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceOpera) with a few tropes borrowed from [Space Westerns](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceWestern).
+>**Genre:** The series will be [Space Opera](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceOpera) with a couple tropes borrowed from [Space Westerns](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceWestern).
+> * Gunslinger
+> * Wagon Train to the Stars
 >
 >**POV:** Third Person Omniscient
+>
+>**Assorted Research Links**:
+> * [Colt Model 25 Revolver](https://www.smith-wesson.com/product/model-25)  
+> * [Fungi-Based Radiation Protection](https://www.biorxiv.org/content/10.1101/2020.07.16.205534v6)  
+> * [Unconsciousness in Vacuum of Space](http://www.todayifoundout.com/index.php/2012/06/you-can-survive-being-exposed-to-the-near-vacuum-of-space-for-about-90-seconds-with-no-longterm-damage/) 
+> * [Can you fire a gun in Space?](https://www.sciencefocus.com/space/can-you-fire-a-gun-in-space/) 
+> 	* Yes
+> * [What does sunrise/sunset look like on Mars?](https://solarsystem.nasa.gov/news/925/what-does-a-sunrise-sunset-look-like-on-mars/)
+> 	* Bluish
+> * [What does Mars smell like?](https://www.scientificamerican.com/article/what-does-mars-smell-like/)
+> 	* ... a world of sulfur, acids, magnesium, iron and chlorine compounds, all of which are sunbaked and wrapped in a carbon-dioxide-rich atmosphere.
+> 	* Morie suspects that the predominant Mars odor is a slightly acrid, gassy smell of sulfur compounds, with a chalky, sweet overtone punching through.
+>
+
+
 
 >[!Summary]+ Book Description
 > 

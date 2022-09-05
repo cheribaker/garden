@@ -12,8 +12,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ## What's New?
 
-9/3/22 - *Updated [Project Mars](/notes/project-mars) with the fisr draft of my book description.*
-
+9/5/22 - Updated [Project Mars](/notes/project-mars) and [Hostile Takeover](/notes/hostile-takeover)
 
 ## Projects ☕
 
