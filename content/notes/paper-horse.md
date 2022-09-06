@@ -33,15 +33,11 @@ weight: 0
 >   *~ means 'in process'*
 
 
->[!Important]+ Project Notes
+>[!Important]- Project Notes
 >
->
-> **Starting With:**
-> * A high level outline (25 Bullets)
-> * Brief character notes (names & 2-3 bullet points)
-> * Stock photos for each new character.
+> TBD
 
->[!Summary]+ Book Description
+>[!Summary]- Book Description
 > 
 > TBD
 

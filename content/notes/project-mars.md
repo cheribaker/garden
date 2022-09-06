@@ -33,7 +33,7 @@ weight: 0
 >   *~ means 'in process'*
 
 
->[!Important]+ Project Notes
+>[!Important]- Project Notes
 >
 >
 >**Genre:** The series will be [Space Opera](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceOpera) with a couple tropes borrowed from [Space Westerns](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceWestern).
@@ -57,7 +57,7 @@ weight: 0
 
 
 
->[!Summary]+ Book Description
+>[!Summary]- Book Description
 > 
 > (**First Draft**)
 >

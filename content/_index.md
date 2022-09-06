@@ -12,7 +12,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ## What's New?
 
-9/5/22 - Updated [Project Mars](/notes/project-mars) and [Hostile Takeover](/notes/hostile-takeover)
+9/5/22 - Updated [Shadow of a Doubt](/notes/shadow-doubt.md)
 
 ## Projects ☕
 
@@ -22,15 +22,12 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 - [The Case of the Paper Horse](/notes/paper-horse.md)
 - [Project Mars](/notes/project-mars.md)
 
-*Business*
-- [Direct Sales for eBooks](notes/direct-sales.md)
-
 
 ### Thought of the Day
 
-> “Your intuition knows what to write, so get out of the way.” 
+> “Without labor nothing prospers.” 
 > 
-> **Ray Bradbury**
+> **Sophocles**
 
 
 ## Garden Beds 🌲
@@ -72,7 +69,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ###  🛖 **The Shed (everything else)**
 
-[Wishlist](/notes/wishlist.md)
+* [Wishlist](/notes/wishlist.md)
 
 
 <br>
