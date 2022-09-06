@@ -6,7 +6,7 @@ title: 📚 Literary Monster
 
 Hello, I’m Cheri and you've found my wiki, Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. Feel free to poke around!
 
-I'm on <a rel="me" href="https://writing.exchange/@cheribaker">Mastodon</a>, if you'd like to say hello.
+I'm on <a rel="me" href="https://writing.exchange/@cheribaker">Mastodon</a>, if you'd like to say hello. If you'd like a peek at the (unglamorous) life of a working author, I track my writing progress [here](/notes/progress).
 
 If you enjoyed your visit and you're motivated to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend.
 
