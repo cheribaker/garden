@@ -12,7 +12,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ## What's New?
 
-9/5/22 - Updated [Shadow of a Doubt](/notes/shadow-doubt.md)
+9/7/22 - Added reference to [Book Notes](https://blog.literary.monster/tags/book-notes/) under creative writing. Updated [Progress Tracker](/notes/progress).
 
 ## Projects ☕
 
@@ -25,9 +25,9 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ### Thought of the Day
 
-> “Without labor nothing prospers.” 
+> “The useless days will add up to something. The shitty waitressing jobs. The hours writing in your journal. The long meandering walks. The hours reading poetry and story collections and novels…. These things are your becoming.” 
 > 
-> **Sophocles**
+> **Cheryl Strayed**
 
 
 ## Garden Beds 🌲
@@ -36,6 +36,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 - [Books about Writing](/notes/books-about-writing.md)
 - [Preparing to Write a Novel, Step by Step](/notes/prep-a-novel.md)
+- My [Book Notes](https://blog.literary.monster/tags/book-notes/), in which I deconstruct techniques used by other authors.
 
 ### **Domestic**
 

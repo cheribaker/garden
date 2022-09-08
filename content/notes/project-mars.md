@@ -13,9 +13,9 @@ weight: 0
 
 > [!Info]+Status
 >
->*Updated: 9/5/22*
+>*Updated: 9/7/22*
 >
-> Ready to write!
+> Writing First Draft
 
 >[!Example]+ Task List
 > 
@@ -26,7 +26,7 @@ weight: 0
 > * ~~Main Characters~~
 > * ~~Set Up Files & Folders~~
 > * [Playlist](/notes/space-opera-playlist.md)
-> * First Draft
+> * ~First Draft
 > * Revisions
 > * Copyedit
 >   
