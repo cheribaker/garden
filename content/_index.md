@@ -12,7 +12,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ## What's New?
 
-9/7/22 - Added reference to [Book Notes](https://blog.literary.monster/tags/book-notes/) under creative writing. Updated [Progress Tracker](/notes/progress).
+9/11/22 - Updated [Progress Tracker](/notes/progress).
 
 ## Projects ☕
 
