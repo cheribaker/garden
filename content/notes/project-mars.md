@@ -13,8 +13,6 @@ weight: 0
 
 > [!Info]+Status
 >
->*Updated: 9/7/22*
->
 > Writing First Draft
 
 >[!Example]+ Task List

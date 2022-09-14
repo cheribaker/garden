@@ -12,11 +12,9 @@ weight: 0
 > Spoilers are possible. Read at your own risk.
 
 
-> [!Info]+Status
+> [!Info]+Status>
 >
->*Updated: 9/2/22*
->
- > I'm all prepped and ready to write!  
+ >Writing First Draft
 
 >[!Example]+ Task List
 > 

@@ -12,7 +12,7 @@ weight: 0
 
 > [!Info]+Status
 >
- >First draft underway.  This book is available for [preorder](https://www.amazon.com/Shadow-Doubt-Butterfly-Island-Mysteries-ebook/dp/B0B65LCQBB).
+ >Writing First Draft
 
 >[!Example]+ Task List
 >
