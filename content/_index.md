@@ -12,7 +12,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ## What's New?
 
-9/11/22 - Updated [Progress Tracker](/notes/progress).
+Updating [Progress Tracker](/notes/progress), and added [Packing & Preparing for a Long Trip](/notes/packing.md)
 
 ## Projects ☕
 
@@ -25,9 +25,9 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ### Thought of the Day
 
-> “The useless days will add up to something. The shitty waitressing jobs. The hours writing in your journal. The long meandering walks. The hours reading poetry and story collections and novels…. These things are your becoming.” 
+> “If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”
 > 
-> **Cheryl Strayed**
+> **Haruki Murakami**
 
 
 ## Garden Beds 🌲
@@ -66,7 +66,7 @@ If you enjoyed your visit and you're motivated to give something back, you can [
 
 ### **Travel & Adventure** 🗺️
 
-- [Places I've Been](/notes/places.md)
+- [Places I've Been](/notes/places.md), [Packing & Preparing for a Long Trip](/notes/packing.md)
 
 ###  🛖 **The Shed (everything else)**
 

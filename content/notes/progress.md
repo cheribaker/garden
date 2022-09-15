@@ -17,8 +17,10 @@ Because I get more done when I track these things. 🧐
 
 | Date    | Words Written | Project                     | Notes                           |
 |:------- |:------------- |:--------------------------- |:------------------------------- |
+|         |               |                             |                                 |
+| 9/14/22 | -             | -                           | blerg                                |
 | 9/13/22 | 1697          | Shadow of a Doubt           |                                 |
-| 9/12/22 | -             | -                           | Day Off                         |
+| 9/12/22 | -             | -                           | Day Off                       |
 | 9/11/22 | 337           | The Case of the Paper Horse |                                 |
 | 9/11/22 | 2554          | Shadow of a Doubt           |                                 |
 | 9/10/22 | -             | -                           | Sucked into a Marketing Hole 😒 |
