@@ -56,7 +56,7 @@ Updating [Progress Tracker](/notes/progress), and added [Packing & Preparing for
 
 ### **Spanish** 🇪🇸
 
-* [Resources for Learning Spanish](/notes/spanish-learning-resources.md), Spanish Youtube, Spanish Netflix
+* [Resources for Learning Spanish](/notes/spanish-learning-resources.md), How I'm Studying Spanish
 
 ### **Technology** 🤓
 
