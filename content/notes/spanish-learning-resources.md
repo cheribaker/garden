@@ -23,14 +23,12 @@ Here are some of my favorite resources for learning Spanish:
 
 	Netflix has tons of Spanish-language television shows, plus extensive subtitling and dubbing options for their original programming.
 
-	Suggested shows: *TBD*
-
 5. [YouTube](https//www.youtube.com)
 
-	Likewise, YouTube has tons of language learning resources.
+	Likewise, YouTube has excellent language learning resources.
 
-	Suggested channels: *TBD*
-
+	Suggested channels: [Dreaming Spanish](https://www.youtube.com/c/DreamingSpanish),  [Español Con Juan](https://www.youtube.com/c/1001reasonstolearnspanishwithus),  [Real Fast Spanish](https://www.youtube.com/c/Realfastspanish) [Extra (a television show for Spanish learners)](https://www.youtube.com/watch?v=Dfb9-ZTCA-E&list=PLLVULqsElvki_riI1ld0QhZJx1wom5Ply)
+	
 
 ---
 *Additional Resources*
