@@ -1,18 +1,20 @@
----
-title: 📚 Literary Monster
----
+
 
 ## Welcome 
 
-Hello, I’m Cheri and you've found my wiki, Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. Feel free to poke around!
+Hello, I’m [Cheri](https://cheri.omg.lol) and you've found my wiki, Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. Feel free to poke around!
 
-I'm on <a rel="me" href="https://writing.exchange/@cheribaker">Mastodon</a>, if you'd like to say hello. If you'd like a peek at the (unglamorous) life of a working author, I track my writing progress [here](/notes/progress).
-
-If you enjoyed your visit and you're motivated to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend.
+If you enjoyed your visit and you want to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend.
 
 ## What's New?
 
-Updating [Progress Tracker](/notes/progress), and added [Packing & Preparing for a Long Trip](/notes/packing.md)
+*Latest Status Report*
+
+<script src="https://status.lol/cheri.js?time&pretty"></script>
+
+*Latest Wiki Updates*
+
+Updated [Monster Movie Log](/notes/monster-watch.md) and project pages.
 
 ## Projects ☕
 
@@ -25,9 +27,9 @@ Updating [Progress Tracker](/notes/progress), and added [Packing & Preparing for
 
 ### Thought of the Day
 
-> “If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”
+> “We loved with a love that was more than love.""
 > 
-> **Haruki Murakami**
+> Edgar Allen Poe
 
 
 ## Garden Beds 🌲

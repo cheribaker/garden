@@ -1,6 +1,6 @@
 name: Cheri Baker
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -19,8 +19,8 @@ description:
 page_title:
   "Literary Monster"
 links:
-  - link_name: Mastodon
-    link: https://writing.exchange/@cheribaker
+  - link_name: About Me
+    link: https://cheri.omg.lol
   - link_name: My Books
     link: https://www.cheribaker.com
   - link_name: Blog

@@ -15,7 +15,7 @@ weight: 0
 >
 > Writing First Draft
 
->[!Example]+ Task List
+>[!Example]- Task List
 > 
 > * ~~Story Concept (series)~~
 > * ~~Story Concept (book)~~

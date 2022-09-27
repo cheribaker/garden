@@ -11,12 +11,10 @@ weight: 0
 
 
 > [!Info]+Status
->
->*Updated: 9/5/22*
  >
-> Creating book files.
+> E-book is published. Waiting on fixes on paperback wrap to publish paperback edition.
 
->[!Example]+ Task List
+>[!Example]- Task List
 >
 > * ~~Cover Art~~
 > * ~~First Draft~~
@@ -24,7 +22,7 @@ weight: 0
 > * ~~Copyedits~~
 > * ~~Front/End Matter~~
 > * ~~Sales Copy~~
-> * Production
+> * ~~Production~~
 
 >[!Important]- Project Notes
 >

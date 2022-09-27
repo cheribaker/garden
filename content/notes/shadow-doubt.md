@@ -12,9 +12,9 @@ weight: 0
 
 > [!Info]+Status
 >
- >Writing First Draft
+ >Writing First Draft (1/3 Complete)
 
->[!Example]+ Task List
+>[!Example]- Task List
 >
 > * ~~Story Concept~~
 > * ~~Cover Art~~

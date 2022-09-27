@@ -12,11 +12,11 @@ weight: 0
 > Spoilers are possible. Read at your own risk.
 
 
-> [!Info]+Status>
+> [!Info]+Status
 >
  >Writing First Draft
 
->[!Example]+ Task List
+>[!Example]- Task List
 > 
 > * ~~Story Concept~~
 > * ~Cover Art
@@ -38,5 +38,3 @@ weight: 0
 >[!Summary]- Book Description
 > 
 > TBD
-
-
