@@ -19,7 +19,6 @@ Updated [Monster Movie Log](/notes/monster-watch.md) and project pages.
 ## Projects ☕
 
 *Writing*
-- [Hostile Takeover](/notes/hostile-takeover.md)
 - [Shadow of a Doubt](/notes/shadow-doubt.md)
 - [The Case of the Paper Horse](/notes/paper-horse.md)
 - [Project Mars](/notes/project-mars.md)
