@@ -8,7 +8,7 @@ weight: 0
 
 *I originally wrote these posts for Nanowrimo 2019.*
 
-### Let's Half-Ass Nanowrimo Together
+## Let's Half-Ass Nanowrimo Together
 
 Happy October!
 
@@ -24,7 +24,7 @@ When it comes to the arts, there’s this really tricky line between taking your
 
 So consider yourself invited. ☺️
 
-### Step One: The Idea
+## Step One: The Idea
 
 Happy Friday! Today’s post is about preparing for [National Novel Writing Month](https://nanowrimo.org/) . Our first step in preparation is to come up with an idea for the story. Your idea doesn’t have to be detailed at this point, but it does help to have a basic notion of what your story will be about.
 
@@ -54,7 +54,7 @@ Next week, we’ll take your idea a step further.
 
 Hello, internet buddies! Let’s continue our NaNoWriMo prep today with this question: _What is a story?_ Well, even if you can’t verbalize the answer, you know it intuitively because you’ve been hearing stories all your life! Stories are narratives that follow a familiar structure, and coming up with your story structure is your nanowrimo homework of the week.
 
-Here’s one example of a story structure. This one is called the [Story Circle](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit) , and it’s been popularized over the last few years by television writer Dan Harmon.
+Here’s one example of a story structure. This one is called the [Story Circle](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)  and it's from television writer Dan Harmon.
 
 **The Story Circle**
 
@@ -81,11 +81,11 @@ For those who like lots of detail, you can find story spreadsheets on Jami Gold�
 
 It might feel too early to outline your book, and that’s fine. For now, I want you thinking _big picture_.
 
-### Step Three: Characters, POV, and Setting
+## Step Three: Characters, POV, and Setting
 
 Welcome back to our month-long prep for national novel writing month in which I invite you to half-ass NaNoWriMo with me. In week one we talked about coming up with a story idea , and last week we discussed structure. This week’s prep covers three more elements of story building: Character, Point of View, and Setting. The prep work we do this week will help us write more quickly when we begin drafting our stories in November.
 
-#### Decision #1: Which Point of View Will You Use?
+### Decision 1: Which Point of View Will You Use?
 
 Think of point of view (POV) as the _camera_ you use when telling a story. You might tell your story from inside _one_ character’s head, using sentences like “I raced down the hall.” If so, that’s called first-person perspective. It’s a fun way to tell a story because the tale unfolds like you are reading someone’s diary. But there’s a big limiting factor. You can’t tell the reader things that your main character doesn’t know! We can only see what the POV character sees, which is why it’s a popular choice for murder mysteries.
 
@@ -99,7 +99,7 @@ A quick note about tense: We also get to choose whether we will write our story 
 
 So your first decision for the week is this: what POV will you write in? If you aren’t sure, it’s smart to follow the conventions of your chosen genre. Murder mysteries are all past tense, for example, and can be told in either first person or third. If it helps, pull a few books from your preferred genre off the shelf and flip through the pages. What point of view do they use? Emulating others is a fine place to start.
 
-#### Decision #2: Who Are My Characters?
+### Decision 2: Who Are My Characters?
 
 For each of your primary characters, I’ll suggest that you fill out a quick character sheet that summarizes important facts about them. Here’s an example of what goes into a character sheet, but you can include any categories you like:
 
@@ -123,13 +123,13 @@ Some writers also add a stock photo or celebrity photo to their character sheets
 
 _Tip:_ Need help coming up with character names? Check out [this generator](https://blog.reedsy.com/character-name-generator/) and [popular names in the USA by decade.](https://www.ssa.gov/OACT/babynames/decades/) The latter is helpful when you want to name characters via their age. A 30 year old might be a Jessica, and a 50 year old might be a Heather, for example.
 
-#### Decision #3: What are my Major Settings?
+### Decision 3: What are my Major Settings?
 
 Lastly, it can help things along during NaNoWriMo if you know what your major settings are. Will your scenes take place in an office? A mall? A spaceship? I like to pull photographs and illustrations of settings I might use off the web and stick them in a research folder. I don’t spend a lot of time on this, but that way when I want to describe a room or setting I can pull up a photo and use it as a reference. Wikipedia is a good resource for snagging details about different cities.
 
 That’s it! This week’s work will help you hit the ground running once Nano begins. We’ve got two more posts in this Nano prep series. Next week I’ll cover outlining, an optional step, and in our final week we’ll discuss workspace, time management, and mindset.
 
-#### Let’s Get Ready for Nano!
+### Let’s Get Ready for Nano!
 
 To recap, here’s your suggested homework for the week: **Take your story idea from last week and apply some structure to it.** Use big, broad strokes, and think about how your story will flow. Where does your main character begin? What is their goal? What will be their main plan to reach that goal? Where will they fall down? And how will they be changed by the time your reader reaches the final page?
 
@@ -181,19 +181,19 @@ Future-you might be very glad you did. 🙂
 ## Step Five: Mindset
 Hey, Nano preppers! We’re just a few days away from the big event, so I’ll wrap up this Nanowrimo prep series with some tips about mindset. How should we _think_ about our writing? And what attitudes should we adopt in order to complete our projects well? I’ve got a few suggestions, which I’ve listed below in the form of beliefs.  Do you agree with these beliefs, and if so, are you ready to adopt them?
 
-#### Belief #1: Writing requires time and effort, so I’ve made space in my life to do it.
+### Belief 1: Writing requires time and effort, so I’ve made space in my life to do it.
 
 Writing is work, right? It’s work in the same way that going to your day job is work. If you put in the time and make an effort, you’ll make it through and you’ll improve your skills over time. And because we learn by writing, not by worrying about our writing, action is what matters.
 
 That begins by making time, space, and energy available for your November writing project.
 
-#### Belief #2: I’m writing a first draft. Later, I’ll improve it.
+### Belief 2: I’m writing a first draft. Later, I’ll improve it.
 
 Writing a first draft is about telling the story to yourself. You can trust your future-self to edit your story, and focus now on the first task which is getting the whole story down so you can look at it. Nanowrimo isn’t the time to perfect your “first page hook” or obsess about comma placement.
 
 That being said, you’re not required to write a shitty first draft!  I’d rather see you produce the best work you can, right now, given your current skill level. Let’s talk for a moment about the notion of the happy medium, when it comes to the quality of your first draft.
 
-#### Finding the Happy Medium
+### Finding the Happy Medium
 
 “_I’ll just write shit because that’s what a first draft is._”  Nah. Why on Earth would you intentionally write shit?
 
@@ -203,25 +203,25 @@ That being said, you’re not required to write a shitty first draft!  I’d ra
 
 Seek out that happy medium, okay?
 
-#### Belief #3: It’s time to listen to my gut and heart. Not the experts.
+### Belief 3: It’s time to listen to my gut and heart. Not the experts.
 
 You’ve probably internalized a lot of advice from other writers, right? Stephen King hates adverbs. Others advise against prologues. Your high school English teacher yelled at you for using sentence fragments, or starting a sentence with _and_. Yadda Yadda_._ Taken in context, writing advice can be useful. But for a beginner, all this advice becomes an extra voice of criticism, making you second-guess your natural style as you start writing.
 
 _Tip:_ You’re fine. Just write! Use the voice that comes naturally to you. Fix any excesses in editing, and stop worrying about what the experts think. It’s not their story. It’s yours!
 
-#### Belief #4: Progress matters, but progress is not linear.
+### Belief 4: Progress matters, but progress is not linear.
 
 You might have this idealized notion that you’ll write X words per day during Nanowrimo. And goals can be motivating sometimes. But in reality, writing is far more… lumpy than you might expect. You might have a day where you squeak out 200 words during lunch, and another day when you write four chapters because the words won’t stop flowing. It’s okay to have general targets in mind, but don’t flip out if you’re not producing equal numbers of words.
 
 Keep it simple. Every time you write, move your story forward. And try to set aside enough hours in the month to reach your overall goal. That’s really all you can do.
 
-#### Belief #5: No one is forcing me to do this.
+### Belief 5: No one is forcing me to do this.
 
 Write because you love it. Or because it challenges you. Or because you’re curious to see if you can. Write because you’ve got a story to tell, or because you’ve admired authors forever and books still feel like magic.
 
 But if writing is making you miserable, or if you hate it, it’s okay to stop. Don’t turn a story into an ego contest with yourself. Remember, no one is forcing you to do it. Proceed with the intention that you’ll enjoy yourself, and see how it goes.
 
-#### Belief #6: I’ll decide what to do with this story later.
+### Belief 6: I’ll decide what to do with this story later.
 
 You might publish your story, or not. You might give it to friends to read, or not. But my point is, you don’t need to worry about any of that now. Get the draft down, edit it later, and then you can decide what to do.
 
@@ -229,7 +229,7 @@ Your story is a squalling little baby made of words. It’s red-faced and shouty
 
 And that leads me to my most important belief, which is this:
 
-#### Belief #7: I’m a writer.
+### Belief 7: I’m a writer.
 
 If you write, you’re a writer. There’s no secret-handshake, certification, or permission slip required. Drop the word “aspiring” from your vocabulary and flush your impostor syndrome down the toilet. Once you accept the reality that you’re a writer, you can stop being all angsty about labels and _do your damn job._
 
