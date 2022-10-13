@@ -79,7 +79,15 @@ Nice and compact, right? But you can see how all the big elements of the story a
 
 For those who like lots of detail, you can find story spreadsheets on Jami Gold’s website that contain more detailed templates for story structures. They’re a great resource, but personally I prefer to keep my structure loose at this stage to give myself lots of room to play as I’m drafting the story. But feel free to check the worksheets out if the structures I laid out above feel too vague. I’m also a big fan of Libby Hawker’s short book on structure: [Take Off Your Pants.](https://www.amazon.com/Take-Off-Your-Pants-Outline-ebook/dp/B00UKC0GHA)
 
-It might feel too early to outline your book, and that’s fine. For now, I want you thinking _big picture_.
+It might feel too early to outline your book, and that’s fine. For now, I want you thinking _big picture_. 
+
+### Let’s Get Ready for Nano!
+
+To recap, here’s your suggested homework for the week: **Take your story idea from last week and apply some structure to it.** Use big, broad strokes, and think about how your story will flow. Where does your main character begin? What is their goal? What will be their main plan to reach that goal? Where will they fall down? And how will they be changed by the time your reader reaches the final page?
+
+Think it through, and jot down some notes, but don’t stress if you feel it’s too early to make these decisions. Some writers like to go into their story completely planless, and you might be one of them. But for me, having a loose structure defined stops me from flailing too much during the first draft, so I encourage you to think those questions through.
+
+Next time, we’ll do some time-saving prep work as we tackle _Characters_, _Point of View_, and _Setting_.
 
 ## Step Three: Characters, POV, and Setting
 
@@ -129,13 +137,6 @@ Lastly, it can help things along during NaNoWriMo if you know what your major se
 
 That’s it! This week’s work will help you hit the ground running once Nano begins. We’ve got two more posts in this Nano prep series. Next week I’ll cover outlining, an optional step, and in our final week we’ll discuss workspace, time management, and mindset.
 
-### Let’s Get Ready for Nano!
-
-To recap, here’s your suggested homework for the week: **Take your story idea from last week and apply some structure to it.** Use big, broad strokes, and think about how your story will flow. Where does your main character begin? What is their goal? What will be their main plan to reach that goal? Where will they fall down? And how will they be changed by the time your reader reaches the final page?
-
-Think it through, and jot down some notes, but don’t stress if you feel it’s too early to make these decisions. Some writers like to go into their story completely planless, and you might be one of them. But for me, having a loose structure defined stops me from flailing too much during the first draft, so I encourage you to think those questions through.
-
-Next time, we’ll do some time-saving prep work as we tackle _Characters_, _Point of View_, and _Setting_.
 
 ## Step Four: Beat Sheets
 Welcome back to my Preparing for Nanowrimo series! We’re just a few weeks away now and _shit’s about to get real_. But no worries! If you’ve been prepping along with me you have your story idea plus a bit of structure, also known as your story arc. Perhaps you’ve jotted down some notes about your characters and chosen a point of view to write from. If so, you’re already well ahead of the game. For me, this stage in the writing process feels exciting but messy. Today we’ll add some specificity to our writing plan to help us hit the ground running on November 1st.
