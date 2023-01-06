@@ -7,6 +7,12 @@ tags:
 weight: 0
 ---
 
+* **1/6/23 - Godzilla, Final Wars** 
+	* *TBD*
+
+* **1/3/23 - Blade** 
+	* *A classic of kick-ass vampire cinema.*
+	
 * **9/21/22 - RobotJox** 🤖
 	* *Technically giant robots, not monsters.*
 

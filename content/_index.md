@@ -4,17 +4,17 @@
 
 Hello, I’m [Cheri](https://cheri.omg.lol) and you've found my wiki, Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. Feel free to poke around!
 
-If you enjoyed your visit and you want to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend.
+If you enjoyed your visit and you want to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend. 
 
-## What's New?
-
-*Latest Status Report*
+## What I'm Up To
 
 <script src="https://status.lol/cheri.js?time&pretty"></script>
 
-*Latest Wiki Updates*
+(view my [Mastodon feed](/notes/mastodon.md))
 
-Updated [Monster Movie Log](/notes/monster-watch.md) and project pages.
+## Wiki Updates
+
+* Added [Recording Audiobooks](/notes/recording-audiobooks)
 
 ## Projects ☕
 
@@ -23,12 +23,17 @@ Updated [Monster Movie Log](/notes/monster-watch.md) and project pages.
 - [The Case of the Paper Horse](/notes/paper-horse.md)
 - [Project Mars](/notes/project-mars.md)
 
+*Recording*
+- *Shadow of a Doubt*
+- *The Case of the Missing Finger*
 
 ### Thought of the Day
 
-> “We loved with a love that was more than love.""
+> “Ars longa, vita brevis"
 > 
-> Edgar Allen Poe
+> *skilfulness takes time and life is short*
+> 
+> Hippocrates
 
 
 ## Garden Beds 🌲

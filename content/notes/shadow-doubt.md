@@ -12,7 +12,7 @@ weight: 0
 
 > [!Info]+Status
 >
- >Writing First Draft (1/3 Complete)
+ >Editing Second Draft
 
 >[!Example]- Task List
 >
@@ -22,10 +22,10 @@ weight: 0
 > * ~~Main Characters~~
 > * ~~Set Up Files & Folders~~
 > * [Playlist](/notes/cruise-cozies-playlist)
-> * ~First Draft
-> * Revisions
-> * Copyedit
-> 
+> * ~First Draft~
+> * ~Revisions~
+> * ~Copyedit
+> * ~Recording
 >  
 >  _~ means 'in process'_
 
@@ -39,7 +39,9 @@ weight: 0
 > * [Information about Abusive Relationships](https://www.thehotline.org/identify-abuse/)
 > * [UK Police Ranks](https://en.wikipedia.org/wiki/Police_ranks_of_the_United_Kingdom)
 > * [Schools in USVI](https://www.vimovingcenter.com/schools/)
-> * 
+> * [Information about Lagos](https://en.wikipedia.org/wiki/Lagos)
+> * [Languages Spoken in Lagos Nigeria](https://www.quora.com/What-language-do-people-in-Lagos-speak-I-mean-at-home-and-on-the-streets-Is-it-English-or-Yoruba)
+> * [Wealthy Neighborhood in Lagos Nigeria](https://en.wikipedia.org/wiki/Ikoyi)
 
 >[!Summary]- Book Description
 > 
