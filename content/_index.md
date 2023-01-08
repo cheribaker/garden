@@ -14,7 +14,8 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ## Wiki Updates
 
-* Added [Recording Audiobooks](/notes/recording-audiobooks)
+* Added [Recording Audiobooks](/notes/recording-audiobooks.md)
+* Updated [Monster Movie Log](/notes/monster-watch.md)
 
 ## Projects ☕
 
