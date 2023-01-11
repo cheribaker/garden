@@ -27,6 +27,7 @@ As of January 2023 I've begun recording my own audiobooks. This page is my refer
 * Money can be exchanged for goods and services. 😇
 
 ## Limitations & Problems
+
 * Many of my cozy mystery characters have non-American accents. Accent work is beyond my skill level, and rather than butchering a dozen lovely accents I've opted to go with my own voice.
 
 ## My Recording Location
@@ -37,7 +38,7 @@ My tiny urban condo lacks a closet or small room suitable for recording, and cit
 
 ## Recording as Proofing (Workflow Experiment)
 
-To streamline my work, *I'm combining audio recording with proofreading*. Once a chapter is complete and edited (content edits + line edit) I begin recording.
+To streamline my work *I'm combining audio recording with proofreading*. Once a chapter is complete and edited (content edits + line edit) I begin recording.
 
 When reading work aloud, proofreading errors stand out clearly. I pause the recording, fix the error in the manuscript file, and re-record that sentence, all on the fly.
 
