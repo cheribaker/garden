@@ -17,7 +17,7 @@ With our intermittent (and often misty) rains and the unpredictable wind, umbrel
 
 *LOL.*
 
-Note: When you're dressed to the nines, no one will begrudge you a brief umbrella use to keep your hair dry while you transit from car to fancy-place. There are times when umbrellas are *not* silly.
+Note: There are times when umbrellas are *not* silly. And no one is going to hassle you. We just think it's funny.
 
 Relevant Link: [Seattle Man Sells Out to Big Umbrella](https://theneedling.com/2021/10/01/seattle-man-sells-out-to-big-umbrella/)
 
@@ -27,7 +27,7 @@ There's no possessive. Pike is a street. Say it correctly (Pike Place) and you'l
 
 **You're doing WHAT on vacation?**
 
-Starbucks is a big national chain store. That's why we find it a bit weird when tourists are *delighted* to visit a Starbucks here. The "First Starbucks" isn't even the first Starbucks, because the first one was torn down years ago. You're welcome to wait in line for an hour and buy an overpriced mug there, but yes... it's a bit of a head scratcher.
+Starbucks is a big national chain store. That's why we find it a bit weird when tourists are *delighted* to visit a Starbucks here. The "First Starbucks" isn't even the first Starbucks because the first one was torn down years ago. You're welcome to wait in line for an hour and buy an overpriced mug there, but yes... it's a bit of a head scratcher.
 
 ### Local Lingo
 
@@ -39,7 +39,7 @@ Starbucks is a big national chain store. That's why we find it a bit weird when 
 
 ### **Personal Space**
 
-We like our personal space! Much like the British, Seattleites tend to queue up in line while waiting. We avoid crowding when we can, and most of us avoid extemporaneous conversation with people we don't know, especially on the streets. Certainly ask people for directions if you need them; it's fine to be friendly! It's just that chatting a stranger's ear off will earn you some strange looks.
+We like our personal space! Much like the British, Seattleites tend to queue up in line while waiting. We avoid crowding when we can, and many of us avoid extemporaneous conversation with people we don't know, especially on the streets. Certainly ask people for directions if you need them; it's fine to be friendly! It's just that chatting a stranger's ear off may earn you some strange looks.
 
 As in many cities, wearing earbuds is the universal symbol for "don't talk to me unless you really need to."
 
@@ -47,7 +47,7 @@ We're more like cats than we are like dogs. Cats have friends, but they tend to 
 
 ### Stand on the Right; Pass on the Left
 
-When riding up an escalator in busy areas, stand single file to allow fast walkers to pass you on the side. Try to avoid clotting up stairways, escalators, and sidewalks. We're fast walkers and often on the move.
+When riding up an escalator in busy areas, stand single file to allow fast walkers to pass you on the side. Try to avoid clotting up stairways, escalators, and sidewalks. On average we're fast walkers.
 
 ### JCMSUP (The Downtown Grid)
 

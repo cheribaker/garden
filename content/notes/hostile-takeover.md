@@ -12,7 +12,7 @@ weight: 0
 
 > [!Info]+Status
  >
-> E-book is published. Waiting on fixes on paperback wrap to publish paperback edition.
+> Published
 
 >[!Example]- Task List
 >

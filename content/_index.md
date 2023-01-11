@@ -55,6 +55,8 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ###  **Publishing** 📖
 
+- [Recording Audiobooks](/notes/recording-audiobooks.md)
+
 ### **Seattle** 🏙️
 
 - [Cultural Touchstones](/notes/culture.md), [Coffeeshops](/notes/coffeeshops.md)

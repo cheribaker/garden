@@ -38,7 +38,7 @@ Normally, I don't like large purses, but this setup works best for me on the roa
 **Cell Phone**
 
 * My US cell phone plan *can* be used in other countries, but it's expensive, so I don't use it unless there's an emergency.
-* I purchase an E-SIM plan from [Ubigi](https://www.ubigi.com/) (there are other providers) and add an "extra" cell phone plan with mobile data to my phone for as long as we're away. Last time, I paid about $10/mo for cellular data in Spain.
+* I purchase an E-SIM plan from [Ubigi](https://www.ubigi.com/) (there are other providers) and add an "extra" cell phone data plan to my phone for as long as we're away. Last time, I paid about $10/mo for cellular data in Spain.
 * I upgraded my iPhone SE to one that has E-SIM capability for this purpose.
 * Note: Having a Sim+E-SIM is handy because both lines can be active simultaneously. My regular line is running in case we get a call from a relative, but all my data goes through the much cheaper Ubigi plan.
 
@@ -91,5 +91,3 @@ Normally, I don't like large purses, but this setup works best for me on the roa
 * Call your bank and let them know you'll be traveling overseas so they don't think your transactions are fraud.
 * Use regular ATMs to get cash when you land, but be cautious of ATMs at airports and train stations, as many of them have ridiculous fees.
 
-
-## More to Come

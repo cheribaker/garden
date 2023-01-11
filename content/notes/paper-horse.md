@@ -24,7 +24,7 @@ weight: 0
 > * ~~Main Characters~~
 > * ~~Set Up Files & Folders~~
 > * [Playlist](/notes/cruise-cozies-playlist.md)
-> * First Draft
+> * ~First Draft
 > * Revisions
 > * Copyedit
 >   
