@@ -13,7 +13,7 @@ This page is for keeping track of monster movies (and other B-movies) I'm watchi
 
 ### Monsterdon
 
-Sometimes I watch these movies live with other fans on [Mastodon](https://writing.exchange/@cheribaker). (Look for the #Monsterdon hashtag for more information.) In my log, monsterdon movies are marked with an (M).
+Sometimes I watch these movies live with other fans on [Mastodon](https://writing.exchange/@cheribaker). Look for the #Monsterdon hashtag for more information. In my log, monsterdon movies are marked with an (M).
 
 ### Finding Monster Movies to Watch
 
@@ -25,6 +25,16 @@ Sometimes I watch these movies live with other fans on [Mastodon](https://writin
 	- 2016
 	- *The best modern Godzilla movie.*
 	- [Wikipedia](https://en.wikipedia.org/wiki/Shin_Godzilla), [Trailer](https://www.youtube.com/watch?v=zgyq6YKeIms), [IMDb](https://www.imdb.com/title/tt4262980/?ref_=nv_sr_srsg_0).
+	
+- **01/12/23 -Resident Evil: Apocalypse**
+	- 2004
+	- *A bit of a snooze, but it has its moments.*
+	- [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil:_Apocalypse), [IMDb](https://www.imdb.com/title/tt0318627/?ref_=nv_sr_srsg_0).
+	
+- **01/12/23 -Resident Evil**
+	- 2002
+	- *Scary and clever with great action.*
+	- [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_(film)), [IMDb](https://www.imdb.com/title/tt0120804/?ref_=fn_al_tt_1).
 	
 * **01/05/23 Godzilla Final Wars** (M) 
 	* 2004
