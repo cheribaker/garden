@@ -12,7 +12,7 @@ weight: 0
 
 > [!Info]+Status
 >
- >Editing Second Draft
+ >Waiting for Editor/Beta Feedback
 
 >[!Example]- Task List
 >

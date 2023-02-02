@@ -14,13 +14,11 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ## Wiki Updates
 
-* Added [Recording Audiobooks](/notes/recording-audiobooks.md)
 * Updated [Monster Movie Log](/notes/monster-watch.md)
 
 ## Projects ☕
 
 *Writing*
-- [Shadow of a Doubt](/notes/shadow-doubt.md)
 - [The Case of the Paper Horse](/notes/paper-horse.md)
 - [Project Mars](/notes/project-mars.md)
 
