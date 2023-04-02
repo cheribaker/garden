@@ -1,6 +1,6 @@
 # Packing & Preparing For a Long Trip
 
-How I get ready for trips that last 1-6 months.
+Packing for trips that last 1-6 months.
 
 ## Gear
 

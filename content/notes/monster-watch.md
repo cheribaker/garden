@@ -13,18 +13,48 @@ This page is for keeping track of monster movies (and other B-movies) I'm watchi
 
 ### Monsterdon
 
-Sometimes I watch these movies live with other fans on [Mastodon](https://writing.exchange/@cheribaker). Look for the #Monsterdon hashtag for more information. In my log, monsterdon movies are marked with an (M).
+Sometimes I watch these movies live with other fans on [Mastodon](https://writing.exchange/@cheribaker). Look for the #Monsterdon hashtag for more information. Monsterdon movies are marked with an (M).
 
-### Finding Monster Movies to Watch
-
-[Tubi](https://tubitv.com) and [Crackle](https://www.crackle.com) have a fairly large (free with ads) monster movie catalog. With a bit of patience, B-movie DVDs are often cheap on eBay. I've also used [JustWatch](https://www.justwatch.com/)'s search engine to figure out which streaming services have the movie I want.
 
 ## 2023
 
+- **04/03/23 -Rodan (M)** 
+	- 1956
+	- [IMDb](https://www.imdb.com/title/tt0049782/plotsummary/?ref_=tt_ov_pl)
+	
+- **03/26/23 -Gamera 3: Revenge of Iris (M)** 
+	- 1999
+	- "Tentacle stuff got weird."
+	- [Wikipedia](https://en.wikipedia.org/wiki/Gamera_3:_Revenge_of_Iris), [IMDb](https://www.imdb.com/title/tt0184503/?ref_=nv_sr_srsg_0)
 
-- **02/05/23 -Ebirah, Horror of the Deep (M)** - Planned
+- **03/12/23 -Gamera 2: Attack of Legion (M)** 
+	- 1996
+	- *Legion was impressively scary.*
+	- [Wikipedia](https://en.wikipedia.org/wiki/Gamera_2:_Attack_of_Legion), [IMDb](https://www.imdb.com/title/tt0116390/?ref_=fn_al_tt_1)
+
+- **03/5/23 -Gamera the Guardian of the Universe (M)** 
+	- 1995
+	- *Magic commas and a psychic teen girl.*
+	- [Wikipedia](https://en.wikipedia.org/wiki/Gamera:_Guardian_of_the_Universe), [IMDb](https://www.imdb.com/title/tt0113142/?ref_=nv_sr_srsg_0)
+	
+- **02/26/23 The Mysterians (M)** 
+	- 1957
+	- *They want our women!*
+	- [IMDb](https://www.imdb.com/title/tt0050251/?ref_=fn_al_tt_1)
+	
+- **02/19/23 The War of the Gargantuas (M)** -
 	- 1966
-	- TBW
+	- *Emotionally abused bigfoots wreak havok.*
+	- [Wikipedia](https://en.wikipedia.org/wiki/The_War_of_the_Gargantuas), [IMDb](https://www.imdb.com/title/tt0060440/)
+	
+- **02/12/23 - Matango (Attack of the Mushroom People) (M)**
+	- 1963
+	- *Scary and hilarious.*
+	- [IMDb](https://www.imdb.com/title/tt0057295/?ref_=nv_sr_srsg_0)
+		
+- **02/05/23 -Ebirah, Horror of the Deep (M)** 
+	- 1966
+	-  *Why not Zoidberg?*
 	- [Wikipedia](https://en.wikipedia.org/wiki/Ebirah,_Horror_of_the_Deep), [IMDb](https://www.imdb.com/title/tt0060464/?ref_=fn_al_tt_1)
 	
 - **01/29/23 -Space Ameoba (M)**

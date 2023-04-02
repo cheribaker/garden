@@ -22,17 +22,11 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 - [The Case of the Paper Horse](/notes/paper-horse.md)
 - [Project Mars](/notes/project-mars.md)
 
-*Recording*
-- *Shadow of a Doubt*
-- *The Case of the Missing Finger*
-
 ### Thought of the Day
 
-> “Ars longa, vita brevis"
+> “Closed in a room, my imagination becomes the universe, and the rest of the world is missing out"
 > 
-> *skilfulness takes time and life is short*
-> 
-> Hippocrates
+> Criss Jami
 
 
 ## Garden Beds 🌲

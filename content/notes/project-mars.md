@@ -27,6 +27,8 @@ weight: 0
 > * ~First Draft
 > * Revisions
 > * Copyedit
+> * Beta Feedback
+> * Final Proofread
 >   
 >   *~ means 'in process'*
 
