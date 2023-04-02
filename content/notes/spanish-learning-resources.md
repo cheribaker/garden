@@ -9,7 +9,7 @@ Here are some of my favorite resources for learning Spanish:
 
 1. [SpanishDict](https://www.spanishdict.com/) ($60/yr)
 
-	I use the app for learning vocabulary, pronunciation, translation, and verb conjugation practice. 
+	For vocabulary, pronunciation, translation, and verb conjugation practice. 
 
 2. [Meetup.com](http://www.meetup.com) (free)
 
@@ -17,7 +17,7 @@ Here are some of my favorite resources for learning Spanish:
 
 3. [Language Transfer](https://www.languagetransfer.org/) (free)
 
-	An excellent podcast to help you *think* in Spanish.
+	A podcast to help you *think* in Spanish.
 
 4. [Netflix](https://www.netflix.com)
 

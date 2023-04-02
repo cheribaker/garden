@@ -5,6 +5,7 @@ tags:
 weight: 0
 ---
 
+## Book Summary
 
 >[!Warning]+Notice
 >
@@ -15,25 +16,25 @@ weight: 0
 >
 > Writing First Draft
 
->[!Example]- Task List
+>[!Example]- Project Plan
 > 
 > * ~~Story Concept (series)~~
 > * ~~Story Concept (book)~~
 > * ~~Cover Art~~
+> * Book Design (fonts & styles)
 > * ~~Major Plot Points~~
 > * ~~Main Characters~~
 > * ~~Set Up Files & Folders~~
 > * [Playlist](/notes/space-opera-playlist.md)
-> * ~First Draft
+> * First Draft (in process)
 > * Revisions
 > * Copyedit
 > * Beta Feedback
 > * Final Proofread
->   
->   *~ means 'in process'*
+> * Production
 
 
->[!Important]- Project Notes
+>[!Important]- Research
 >
 >
 >**Genre:** The series will be [Space Opera](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceOpera) with a couple tropes borrowed from [Space Westerns](https://tvtropes.org/pmwiki/pmwiki.php/Main/SpaceWestern).
@@ -56,7 +57,6 @@ weight: 0
 >
 
 
-
 >[!Summary]- Book Description
 > 
 > (**First Draft**)
@@ -77,3 +77,6 @@ weight: 0
 > 
 
 
+## WIP Notes
+
+4/2/23 - I'm 24,000 words in and chuffed at the feedback I've gotten so far. This is fun!

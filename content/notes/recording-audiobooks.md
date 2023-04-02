@@ -9,22 +9,13 @@ weight: 0
 As of January 2023 I've begun recording my own audiobooks. This page is my reference guide.
 
 
-## My Equipment
+## Equipment
 
 - [Audacity](https://www.audacityteam.org/) software (it's free!)
 - A Blue Yeti USB Microphone
 - A Moukey Isolation Shield and Shock Mount
 - Generic over-the-ear Headphones
 - A tablet (iPad) for scrolling silently through the book as I narrate.
-
-## Why Record my own Audiobooks?
-
-* Professional narrators (rightly) charge more than I can afford to pay.
-* I enjoy making my own stuff.
-* It's kinda difficult, and I enjoy doing difficult things sometimes.
-* I know my characters better than anyone.
-* It makes my books more accessible for visually impaired readers.
-* Money can be exchanged for goods and services. 😇
 
 ## Limitations & Problems
 
@@ -66,23 +57,20 @@ When reading work aloud, proofreading errors stand out clearly. I pause the reco
 
 *For backing up and re-starting when you've messed up.*
 
-Place the marker (line) before your spoken error or flub. Hit SHIFT + D and the previous five seconds will play. You can speak over your own voice to get in the rhythm! At the marker, recording will resume. Keep on narrating from there.
-
-*more to come...*
+Place the marker (line) before your spoken error or flub. Hit SHIFT + D and the previous five seconds will play. You can speak over your own voice to get into the correct rhythm. At the marker, recording will resume. 
 
 ## Audiobook Plugins for Audacity
 
-*coming soon*
+*coming*
 
 ## Audiobook Editing
 
-*coming soon*
+*coming*
 
 ## Mastering the Audio Files
 
-*coming soon*
+*coming*
 
 ## Reference Links
 
-*coming soon*
-
+*coming*
