@@ -14,13 +14,14 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ## Wiki Updates
 
-* Updated [Monster Movie Log](/notes/monster-watch.md)
+* Added [Setting up an E-commerce Bookstore](/notes/direct-sales.md)
 
 ## Projects ☕
 
 *Writing*
 - [The Case of the Paper Horse](/notes/paper-horse.md)
 - [Project Mars](/notes/project-mars.md)
+- [Project Monster](/notes/project-monster.md)
 
 ### Thought of the Day
 
@@ -48,6 +49,7 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 ###  **Publishing** 📖
 
 - [Recording Audiobooks](/notes/recording-audiobooks.md)
+- [Setting up an E-commerce Bookstore](/notes/direct-sales.md)
 
 ### **Seattle** 🏙️
 
