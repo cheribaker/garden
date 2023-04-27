@@ -18,8 +18,28 @@ Sometimes I watch these movies live with other fans on [Mastodon](https://writin
 
 ## 2023
 
-- **04/03/23 -Rodan (M)** 
+ * **04/30/23 -Godzilla vs Gigan (M)** 
+	- 1972
+	- [IMDb](https://www.imdb.com/title/tt0068371/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_godzilla%2520vs%2520gigan), [Trailer](https://youtu.be/7wuS1WS-0FY)
+ 
+ * **04/23/23 -Gamera the Brave (M)** 
+	- 2005
+	- [IMDb](https://www.imdb.com/title/tt0467923/?ref_=fn_al_tt_1)
+	-  (Missed this one) Noting down offical Monsterdon watch date.  
+	
+ * **04/17/23 -King Kong Escapes (M)** 
+	- 1967
+	- [IMDb](https://www.imdb.com/title/tt0061868/?ref_=fn_al_tt_1)
+	- (Missed this one) Noting down offical Monsterdon watch date. 
+	
+- **04/09/23 -Battle in Outer Space (M)** 
+	- 1959
+	-  Loved the costumes and submarine-like spacecraft
+	- [IMDb](https://www.imdb.com/title/tt0053388/?ref_=fn_al_tt_1)
+	
+- **04/02/23 -Rodan (M)** 
 	- 1956
+	- His "wing gusts" were impressive
 	- [IMDb](https://www.imdb.com/title/tt0049782/plotsummary/?ref_=tt_ov_pl)
 	
 - **03/26/23 -Gamera 3: Revenge of Iris (M)** 
@@ -29,77 +49,77 @@ Sometimes I watch these movies live with other fans on [Mastodon](https://writin
 
 - **03/12/23 -Gamera 2: Attack of Legion (M)** 
 	- 1996
-	- *Legion was impressively scary.*
+	- Legion was impressively scary.
 	- [Wikipedia](https://en.wikipedia.org/wiki/Gamera_2:_Attack_of_Legion), [IMDb](https://www.imdb.com/title/tt0116390/?ref_=fn_al_tt_1)
 
 - **03/5/23 -Gamera the Guardian of the Universe (M)** 
 	- 1995
-	- *Magic commas and a psychic teen girl.*
+	- Magic commas and a psychic teen girl.
 	- [Wikipedia](https://en.wikipedia.org/wiki/Gamera:_Guardian_of_the_Universe), [IMDb](https://www.imdb.com/title/tt0113142/?ref_=nv_sr_srsg_0)
 	
 - **02/26/23 The Mysterians (M)** 
 	- 1957
-	- *They want our women!*
+	- They want our women!
 	- [IMDb](https://www.imdb.com/title/tt0050251/?ref_=fn_al_tt_1)
 	
 - **02/19/23 The War of the Gargantuas (M)** -
 	- 1966
-	- *Emotionally abused bigfoots wreak havok.*
+	- Emotionally abused bigfoots wreak havok.
 	- [Wikipedia](https://en.wikipedia.org/wiki/The_War_of_the_Gargantuas), [IMDb](https://www.imdb.com/title/tt0060440/)
 	
 - **02/12/23 - Matango (Attack of the Mushroom People) (M)**
 	- 1963
-	- *Scary and hilarious.*
+	- Scary and hilarious.
 	- [IMDb](https://www.imdb.com/title/tt0057295/?ref_=nv_sr_srsg_0)
 		
 - **02/05/23 -Ebirah, Horror of the Deep (M)** 
 	- 1966
-	-  *Why not Zoidberg?*
+	-  Why not Zoidberg?
 	- [Wikipedia](https://en.wikipedia.org/wiki/Ebirah,_Horror_of_the_Deep), [IMDb](https://www.imdb.com/title/tt0060464/?ref_=fn_al_tt_1)
 	
 - **01/29/23 -Space Ameoba (M)**
 	- 1970
-	- *Fun! Loved the wobbly Space Squid.* 🦑
+	- Fun! Loved the wobbly Space Squid. 🦑
 	- [Wikipedia](https://en.wikipedia.org/wiki/Space_Amoeba), [IMDb](https://www.imdb.com/title/tt0065776/)
 	
 - **01/25/23 -Resident Evil: The Final Chapter**
 	- 2016
-	- *A dull first half, but the series goes out with a satisfying bang.* 👨🏼‍🔬
+	- A dull first half, but the series goes out with a satisfying bang. 👨🏼‍🔬
 	- [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil:_The_Final_Chapter), [IMDb](https://www.imdb.com/title/tt2592614/?ref_=nv_sr_srsg_0)
 
 - **01/22/23 -Godzilla vs Mechagodzilla (M)**
 	- 1974
-	- *Godzilla looks ridiculous. But quality monster fights.* 😀
+	- Godzilla looks ridiculous. But quality monster fights. 😀
 	- [Wikipedia](https://en.wikipedia.org/wiki/Godzilla_vs._Mechagodzilla), [IMDb](https://www.imdb.com/title/tt0071565/?ref_=fn_al_tt_1)
 
 - **01/18/23 -Resident Evil: Extinction**
 	- 2007
-	- *A fun one! Great characters and atmosphere.* 😃
+	- A fun one! Great characters and atmosphere. 😃
 	- [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil:_Extinction), [IMDb](https://www.imdb.com/title/tt0432021/?ref_=fn_al_tt_1)
 
 - **01/15/23 -Shin Godzilla** (M) 
 	- 2016
-	- *The best modern Godzilla movie.* 🏆
+	- The best modern Godzilla movie. 🏆
 	- [Wikipedia](https://en.wikipedia.org/wiki/Shin_Godzilla), [Trailer](https://www.youtube.com/watch?v=zgyq6YKeIms), [IMDb](https://www.imdb.com/title/tt4262980/?ref_=nv_sr_srsg_0).
 	
 - **01/12/23 -Resident Evil: Apocalypse**
 	- 2004
-	- *A bit of a snooze, but it has its moments.* 🙂
+	- A bit of a snooze, but it has its moments. 🙂
 	- [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil:_Apocalypse), [IMDb](https://www.imdb.com/title/tt0318627/?ref_=nv_sr_srsg_0).
 	
 - **01/12/23 -Resident Evil**
 	- 2002
-	- *Scary and clever with great action.* 😱
+	- Scary and clever with great action. 😱
 	- [Wikipedia](https://en.wikipedia.org/wiki/Resident_Evil_(film)), [IMDb](https://www.imdb.com/title/tt0120804/?ref_=fn_al_tt_1).
 	
 * **01/05/23 Godzilla Final Wars** (M) 
 	* 2004
-	* *Bonkers in the best way possible!* 😍
+	* Bonkers in the best way possible! 😍
 	* [Wikipedia](https://en.wikipedia.org/wiki/Godzilla:_Final_Wars), [Trailer](https://www.youtube.com/watch?v=rXNM802ip-Q), [IMDb](https://www.imdb.com/title/tt0399102/)
 	
 * **1/3/23 - Blade**  
 	* 1998
-	* *A classic of kick-ass vampire cinema.* 🤩
+	* A classic of kick-ass vampire cinema. 🤩
 	* [Wikipedia](https://en.wikipedia.org/wiki/Blade_(1998_film)), [Trailer](https://www.youtube.com/watch?v=kaU2A7KyOu4), [IMDb](https://www.imdb.com/title/tt0120611/?ref_=fn_al_tt_2).
 
 ## 2022

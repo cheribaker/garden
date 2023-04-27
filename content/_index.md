@@ -34,8 +34,18 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ### **Creative Writing** ✍🏻
 
+**Resources & Templates**
 - [Books about Writing](/notes/books-about-writing.md)
-- [Preparing to Write a Novel, Step by Step](/notes/prep-a-novel.md)
+- Character Sheets
+- Character Name Generators
+
+**How To**
+- [Prepare to Write a Novel, Step by Step](/notes/prep-a-novel.md)
+- Create a Series Bible
+- Organize Your Files
+- Edit a Scene
+
+**Other**
 - My [Book Notes](https://blog.literary.monster/tags/book-notes/), in which I deconstruct techniques used by other authors.
 
 ### **Domestic**
@@ -63,6 +73,9 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ### **Technology** 🤓
 
+* Stuff I Use and Like
+* How to turn an iPhone into a Dumbphone
+
 ### **Television & Film** 📺
 
 - [Things I Want to Watch](/notes/want-to-watch.md), [Things I Want You to Watch](/notes/you-should-watch.md), Things No One Should Watch
@@ -75,8 +88,6 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 * [Wishlist](/notes/wishlist.md)
 
-
 <br>
 
 Made by Cheri using [Quartz](https://github.com/jackyzha0/quartz), © 2022
-
