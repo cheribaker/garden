@@ -6,15 +6,16 @@ Hello, I’m [Cheri](https://cheri.omg.lol) and you've found my wiki, Literary M
 
 If you enjoyed your visit and you want to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend. 
 
-## What I'm Up To
+## My Latest Blatherings
+<br>
 
-<script src="https://status.lol/cheri.js?time&pretty"></script>
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="600" height="400" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fwriting.exchange%2Fusers%2Fcheribaker&theme=auto&size=100&header=true&replies=false&boosts=false"></iframe>
 
-(view my [Mastodon feed](/notes/mastodon.md))
 
 ## Wiki Updates
 
-* Added [Setting up an E-commerce Bookstore](/notes/direct-sales.md)
+* Updated [Setting up an E-commerce Bookstore](/notes/direct-sales.md)
+* Updated [Monster Movie Log](/notes/monster-watch)
 
 ## Projects ☕
 
@@ -73,8 +74,7 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ### **Technology** 🤓
 
-* Stuff I Use and Like
-* How to turn an iPhone into a Dumbphone
+* [Stuff I Use and Like](/notes/technology.md)
 
 ### **Television & Film** 📺
 
