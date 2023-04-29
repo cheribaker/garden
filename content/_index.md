@@ -9,7 +9,7 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 ## My Latest Blatherings
 <br>
 
-<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="600" height="400" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fwriting.exchange%2Fusers%2Fcheribaker&theme=auto&size=100&header=true&replies=false&boosts=false"></iframe>
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts" width="400" height="400" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fwriting.exchange%2Fusers%2Fcheribaker&theme=auto&size=100&header=true&replies=false&boosts=false"></iframe>
 
 
 ## Wiki Updates
