@@ -26,9 +26,9 @@ Site is [Live](http://www.cheribaker.com).
 - Bookfunnel (eBook delivery & multi-device customer support)
 - Mailerlite  (Customer Communications)
 
-Shopify is great because it's powerful in the things that matter (secure payment processing, reporting) and because it integrates with a lot of services we use (Bookfunnel, MailerLite) but it also sucks at times because features which would seem very basic are sometimes missing. They offer many features as "plug ins" but almost every plugin comes with a monthly fee.
+Shopify is great because it's powerful in the things that matter (secure payment processing, reporting) and because it integrates with a lot of services we use (Bookfunnel, MailerLite), but it also sucks at times because features which would seem very basic are sometimes missing. They offer many features as "plug ins" but almost every plugin comes with a monthly fee.
 
-It's also worth noting that Shopify frequently updates their themes, so if you've written custom code anywhere on the site when you move to a new version of the theme, you'll need to check for compatibility with your changes. Hence, it's probably smart to have a "light touch" when modifying the theme iself.
+It's also worth noting that Shopify frequently updates their themes, so if you've written custom code, you'll need to check for compatibility when you update your theme to the latest version. It's probably smart to have a "light touch" when modifying the theme iself.
 
 We briefly considered Gumroad, E-Junkie, and Payhip for our store, but they didn't offer all the features we wanted.
 
