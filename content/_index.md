@@ -1,85 +1,56 @@
 
+Hello and welcome. My name is [Cheri](https://cheribaker.com/pages/about-the-author) and you've found my digital garden, the Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. I maintain this site mostly as a reference for myself, but you're welcome to wander around and smell the flowers.
 
-## Welcome 
-
-Hello, I’m [Cheri](https://cheribaker.com/pages/about-the-author) and you've found my personal wiki, the Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. Feel free to poke around.
-
-If you enjoyed your visit and you want to give something back, you can [buy one of my books](http://www.cheribaker.com) for yourself or a friend. 
-
-## My Most Recent Wiki Updates
-
-* Updated [Monster Movie Log](/notes/monster-watch)
-
-## Works in Progress ☕
-
-*Writing*
-- [The Case of the Paper Horse](/notes/paper-horse.md)
+## My Projects ☕
 - [Project Mars](/notes/project-mars.md)
+- [The Case of the Paper Horse](/notes/paper-horse.md)
 
-### Thought of the Day
+## **Creative Writing Stuff** ✍🏻
 
-> “Closed in a room, my imagination becomes the universe, and the rest of the world is missing out"
-> 
-> Criss Jami
-
-
-## Garden Beds 🌲
-
-### **Creative Writing** ✍🏻
+**Book Notes**
+*Learning from other authors by reading their work.*
+* [The Killing Floor, by Lee Child](/notes/notes-killing-floor.md)
+* [Billy Summers, by Stephen King](/notes/notes-billy-summers.md)
+* [The Last Wish, by Andrzej Sapkowski ](/notes/notes-last-wish.md)
 
 **Resources & Templates**
 - [Books about Writing](/notes/books-about-writing.md)
-- Character Sheets
-- Character Name Generators
-
-**How To**
 - [Prepare to Write a Novel, Step by Step](/notes/prep-a-novel.md)
-- Create a Series Bible
-- Organize Your Files
-- Edit a Scene
 
-**Other**
-- My [Book Notes](https://blog.literary.monster/tags/book-notes/), in which I deconstruct techniques used by other authors.
-
-### **Domestic**
-
+## **Domesticity** 🏡
 - [Recipe List](/notes/recipe-list.md)
 
-###  **Godzilla & Other Monsters** 🏯
-
+##  **Godzilla & Other Monsters** 🏯
 * [Monster Movie Watch Log](/notes/monster-watch.md)
 
-###  **Publishing** 📖
+##  **Publishing** 📖
 
+**Audiobooks**
 - [Recording Audiobooks](/notes/recording-audiobooks.md)
+
+**Direct Sales**
 - [Setting up an E-commerce Bookstore](/notes/direct-sales.md)
 
-### **Seattle** 🏙️
+## **Seattle** 🏙️
+- [Cultural Touchstones](/notes/culture.md)
+- [Coffeeshops](/notes/coffeeshops.md)
 
-- [Cultural Touchstones](/notes/culture.md), [Coffeeshops](/notes/coffeeshops.md)
+## **Spanish** 🇪🇸
+* [Resources for Learning Spanish](/notes/spanish-learning-resources.md)
 
-###  **Society** 🤔
-
-### **Spanish** 🇪🇸
-
-* [Resources for Learning Spanish](/notes/spanish-learning-resources.md), How I'm Studying Spanish
-
-### **Technology** 🤓
-
+## **Technology** 🤓
 * [Stuff I Use and Like](/notes/technology.md)
 
-### **Television & Film** 📺
+## **Television & Film** 📺
+- [Things I Want to Watch](/notes/want-to-watch.md)
+- [Things I Want You to Watch](/notes/you-should-watch.md)
 
-- [Things I Want to Watch](/notes/want-to-watch.md), [Things I Want You to Watch](/notes/you-should-watch.md), Things No One Should Watch
+## **Travel & Adventure** 🗺️
+- [Places I've Visited So Far](/notes/places.md) 
+- [Packing & Preparing for a Long Trip](/notes/packing.md)
 
-### **Travel & Adventure** 🗺️
+##  🛖 **The Shed (everything else)**
 
-- [Places I've Been](/notes/places.md), [Packing & Preparing for a Long Trip](/notes/packing.md)
-
-###  🛖 **The Shed (everything else)**
-
-* [Wishlist](/notes/wishlist.md)
+*Currently empty*
 
 <br>
-
-Made by Cheri using [Quartz](https://github.com/jackyzha0/quartz), © 2022
