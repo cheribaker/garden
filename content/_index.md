@@ -8,7 +8,6 @@ If you enjoyed your visit and you want to give something back, you can [buy one 
 
 ## My Most Recent Wiki Updates
 
-* Updated [Setting up an E-commerce Bookstore](/notes/direct-sales.md)
 * Updated [Monster Movie Log](/notes/monster-watch)
 
 ## Works in Progress ☕

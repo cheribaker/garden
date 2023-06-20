@@ -1,6 +1,6 @@
 name: Cheri Baker
 enableToc: true
-openToc: true
+openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -9,7 +9,7 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: 
 enableSemanticSearch: false
@@ -20,9 +20,9 @@ page_title:
   "Literary Monster"
 links:
   - link_name: About Me
-    link: https://cheri.omg.lol
+    link: https://cheribaker.com/pages/about-the-author
   - link_name: My Books
     link: https://www.cheribaker.com
-  - link_name: Blog
-    link: https://blog.literary.monster
+  - link_name: Mastodon
+    link: https://writing.exchange/@cheribaker
     
