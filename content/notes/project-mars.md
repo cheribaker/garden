@@ -14,7 +14,7 @@ weight: 0
 
 > [!Info]+Status
 >
-> Writing First Draft
+> Wrapping Up First Draft
 
 >[!Example]- Project Plan
 > 
@@ -41,7 +41,7 @@ weight: 0
 > * Gunslinger
 > * Wagon Train to the Stars
 >
->**POV:** Third Person Omniscient
+>**POV:** Third Person Limited
 >
 >**Assorted Research Links**:
 > * [Colt Model 25 Revolver](https://www.smith-wesson.com/product/model-25)  
@@ -79,4 +79,5 @@ weight: 0
 
 ## WIP Notes
 
-4/2/23 - I'm 24,000 words in and chuffed at the feedback I've gotten so far. This is fun!
+6/20/23 - 71,000 words and racing toward the finish line
+4/02/23 - I'm 24,000 words in and chuffed at the feedback I've gotten so far. This is fun!

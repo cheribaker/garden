@@ -18,14 +18,50 @@ Sometimes I watch these movies live with other fans on [Mastodon](https://writin
 
 ## 2023
 
+ * **06/18/23 - Invasion of the Body Snatchers (M)** 
+	- 1956
+	- [IMDb](https://www.imdb.com/title/tt0049366/), 
+	- A surprisingly horny classic horror film.
+	
+ * **06/11/23 -Godzilla vs. Megaguirus (M)** 
+	- 2000
+	- [IMDb](https://www.imdb.com/title/tt0255198)
+	- Finally, a worthy adversary for Godzilla!
+
+ * **06/04/23 -Godzilla: Tokyo S.O.S. (M)** 
+	- 2003
+	- [IMDb](https://www.imdb.com/title/tt0366526)
+	- Godzilla, Mechagodzilla, and Mothra. Excellent.
+ 
+ * **05/21/23 -The H-Man (M)** 
+	- 1958
+	- [IMDb](https://www.imdb.com/title/tt0051413/?ref_=fn_al_tt_1), [Trailer](https://www.youtube.com/watch?v=PDzxJWpoSVs)
+	- A gooey tale of toxic masculinity and jazz.
+ 
+ * **05/14/23 -Godzilla 2000 (M)** 
+	- 1999
+	- [IMDb](https://www.imdb.com/title/tt0188640/?ref_=fn_al_tt_1), [Trailer](https://www.youtube.com/watch?v=mOr5vaQy9YM&pp=ygUUZ29kemlsbGEgMjAwIHRyYWlsZXI%3D)
+	- Godzilla battles some fossilized poo. It's weirdly intense.
+
+ * **05/14/23 -Croczilla** 
+	- 2012
+	- [IMDb](https://www.imdb.com/title/tt2354196/?ref_=fn_al_tt_1)
+	- Campy and fun.
+
+ * **05/07/23 -Atragon (M)** 
+	- 1963
+	- [IMDb](https://www.imdb.com/title/tt0057215/?ref_=fn_al_tt_1), [Trailer](https://www.youtube.com/watch?v=fzUZLme3GEs&pp=ygUPYXRyYWdvbiB0cmFpbGVy)
+	- Highly entertaining. 
+ 
  * **04/30/23 -Godzilla vs Gigan (M)** 
 	- 1972
 	- [IMDb](https://www.imdb.com/title/tt0068371/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_godzilla%2520vs%2520gigan), [Trailer](https://youtu.be/7wuS1WS-0FY)
+	- Good times!
  
  * **04/23/23 -Gamera the Brave (M)** 
 	- 2005
 	- [IMDb](https://www.imdb.com/title/tt0467923/?ref_=fn_al_tt_1)
-	-  (Missed this one) Noting down offical Monsterdon watch date.  
+	-  The cutest, funniest, bestest Gamera movie of all time.  
 	
  * **04/17/23 -King Kong Escapes (M)** 
 	- 1967

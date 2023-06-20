@@ -33,9 +33,11 @@ Starbucks is a big national chain store. That's why we find it a bit weird when 
 
 "The mountain is out" = Mt. Rainier is visible. Always cause for happiness! Someday it will explode and take out half the region, but until then: *ain't she pretty?*
 
-"Eat a bag of Dick's" = Dick's burgers is a delicious, inexpensive, and beloved burger joint. Sometimes you're hungry and on a budget and you will crave a bag of Dick's.
+"Eat a bag of Dick's" = Dick's burgers is a delicious, inexpensive, and beloved burger joint. Sometimes, you're hungry and on a budget and you will crave a bag of Dick's.
 
 "Sunbreak" = During our long dark (5-8 months of gray skies) the sun will occasionally shine down. This is a sunbreak and it's an immediate excuse to slack off at work and go outside.
+
+"The Seattle Freeze" = The idea that it's difficult to make friends here. It's both true and untrue. Meetups, group hikes, and volunteering are all good ways to make friends in the area.
 
 ### **Personal Space**
 
@@ -87,9 +89,9 @@ Business casual = *Usually it's more casual than other cities unless you're goin
 
 #### Common Local Opinions on Seattle Things
 
-- We have a certain shabby respect for Starbucks as a hometown business, but we tend not to think of it as 'good coffee.' We have a ton of small, quirky, delicious coffee shops, and it's always nice to try something new. 
+- ~~We have a certain shabby respect for Starbucks as a hometown business~~, but we tend not to think of it as 'good coffee.' We have a ton of small, quirky, delicious coffee shops, and it's always nice to try something new.  *Update: Starbucks has trashed itself by engaging in aggressive and illegal union busting practices*
 - No one gives a rip about *Sleepless in Seattle*. Ditto *Grey's Anatomy*. The connection is superficial at best.
 - We are proud of our musical history, including but not limited to *Nirvana*, *Sir Mixalot*, *Grunge Bands*, and *JImi Hendrix*.
 - We are still salty about the loss of our NBA team, the *Seattle Supersonics*.
-- Stereotypical things we're generally fond of: Hiking and Camping, Boating and Watersports, Aerospace, Technology, Coffee, Libraries, Rain, Working too Much, Beer, Music Festivals, Weed, and Seafood.
+- Things we're generally fond of: Hiking and Camping, Boating, Aerospace, Technology, Coffee, Libraries, Rain, Working too Much, Beer, Music Festivals, Weed, and Seafood.
 
