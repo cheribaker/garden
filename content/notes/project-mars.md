@@ -1,5 +1,5 @@
 ---
-title: "Writing Project Mars"
+title: "Writing Outlaw Justice"
 tags:
 - projects
 weight: 0
@@ -14,7 +14,9 @@ weight: 0
 
 > [!Info]+Status
 >
-> Wrapping Up First Draft
+> First draft complete! 🎉 
+> 
+> I'm letting the book rest for a bit before I start edits.
 
 >[!Example]- Project Plan
 > 
@@ -26,7 +28,7 @@ weight: 0
 > * ~~Main Characters~~
 > * ~~Set Up Files & Folders~~
 > * [Playlist](/notes/space-opera-playlist.md)
-> * First Draft (in process)
+> * ~~First Draft~~
 > * Revisions
 > * Copyedit
 > * Beta Feedback
@@ -77,7 +79,4 @@ weight: 0
 > 
 
 
-## WIP Notes
 
-6/20/23 - 71,000 words and racing toward the finish line
-4/02/23 - I'm 24,000 words in and chuffed at the feedback I've gotten so far. This is fun!
