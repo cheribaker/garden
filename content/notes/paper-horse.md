@@ -9,7 +9,7 @@ weight: 0
 | Date     | Wordcount | Notes                                            |
 |:-------- | ---------:|:------------------------------------------------ |
 | 06/27/23 |         0 | [Ready to Begin!](/notes/paper-horse-6-27-23.md) |
-| 06/28/23 |           |                                                  |
+| 06/28/23 |           | [Get the Kettle Boiling](notes/paper-horse-6-28-23.md)                                        |
 
 
 
