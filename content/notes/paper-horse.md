@@ -6,10 +6,10 @@ weight: 0
 ---
 
 
-| Date     | Wordcount | Notes                                            |
-|:-------- | ---------:|:------------------------------------------------ |
-| 06/27/23 |         0 | [Ready to Begin!](/notes/paper-horse-6-27-23.md) |
-| 06/28/23 |           | [Get the Kettle Boiling](notes/paper-horse-6-28-23.md)                                        |
+| Date     | Wordcount | Notes                                                  |
+|:-------- | ---------:|:------------------------------------------------------ |
+| 06/27/23 |         0 | [Ready to Begin!](/notes/paper-horse-6-27-23.md)       |
+| 06/28/23 |      2833 | [Get the Kettle Boiling](notes/paper-horse-6-28-23.md) |
 
 
 
@@ -39,7 +39,8 @@ weight: 0
 
 >[!Important]- Research
 >
-> None yet
+> [Cruise Ship Port at St. Thomas USVI](https://www.iqcruising.com/ports/caribbean/st.thomas/index.html)
+> 
 
 >[!Summary]- Book Description
 > 
