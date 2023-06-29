@@ -1,9 +1,8 @@
 ---
 title: "Ready to Begin!"
-subtitle: The Case of the Paper Horse 6/27/23
+subtitle:
 date: 2023-06-27
 tags:
-- projects
 ---
 
 **My July Project: Speed Running a Mystery Novel**

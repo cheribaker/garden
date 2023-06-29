@@ -1,10 +1,9 @@
 
 ---
 title: "Get the Kettle Boiling"
-subtitle: The Case of the Paper Horse 6/28/23
+subtitle: 
 date: 2023-06-28
 tags:
-- projects
 ---
 
 *This post contains general spoilers for where Ellie’s story arc left off at the end of The Case of the Fond Farewell*
