@@ -18,6 +18,6 @@ So much writing advice is terrible. I've heard thunderous applause at conference
 
 So I'll go into the book today without much runway, and we'll see what happens. Perhaps it will be longer than I think? Maybe I'll need a long walk after lunch. Or perhaps today's wordcount won't be as high as the artificial number I've set. I have to be open to all those possibilities.
 
-Moreover, writing is more fun when I don't worry about this stuff.  Just let the book happen as it happens! It's strange, but writing works best when I acknowledge that I'm not fully in control. I no longer whip my Creative Brain like a laboring horse. She's precious to me, so let's work together and see what we manage to come up with.
+Moreover, writing is more fun when I don't worry about this stuff.  Just let the book happen as it happens! It's strange, but writing works best when I acknowledge that I'm not fully in control. I no longer whip my Creative Brain or tell her that she has to produce OR ELSE. She's precious to me, so let's work together and see what we manage to come up with.
 
 Therefore... Into the book we go!

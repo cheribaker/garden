@@ -11,7 +11,7 @@ weight: 0
 | 06/27/23 |         0 | [Ready to Begin!](/notes/paper-horse-6-27-23.md)       |
 | 06/28/23 |      2833 | [Get the Kettle Boiling](notes/paper-horse-6-28-23.md) |
 | 6/29/23  |      5863 |                                                        |
-| 6/30/23  |           |      [Runway](notes/paper-horse-6-30-23.md)                                                   |
+| 6/30/23  |      8202 | [Runway](notes/paper-horse-6-30-23.md)                 |
 
 
 >[!Warning]+Notice
