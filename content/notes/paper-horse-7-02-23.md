@@ -2,8 +2,8 @@
 ---
 title: "Nope"
 subtitle: 
-date: 2023-07
-tags:-02-23
+date: 2023-07-02
+tags:
 ---
 
 I didn't write yesterday. No biggie, some days the next chapter doesn't feel quite *ready* yet in my mind and it's best to focus on something else for a bit. Hence the reason why Nanowrimo rarely works as well for me as I'd expect.
