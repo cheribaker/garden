@@ -18,6 +18,15 @@ Sometimes I watch these movies live with other fans on [Mastodon](https://writin
 
 ## 2023
 
+ * **07/23/23 - The Giant Claw (M)** 
+	- 1957
+
+ * **07/16/23 - Planet of the Vampires (M)** 
+	- 1965
+
+ * **07/09/23 - The Tingler (M)** 
+	- 1956
+
  * **06/18/23 - Invasion of the Body Snatchers (M)** 
 	- 1956
 	- [IMDb](https://www.imdb.com/title/tt0049366/), 

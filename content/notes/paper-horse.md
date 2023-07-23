@@ -14,6 +14,9 @@ weight: 0
 | 6/30/23  |      8202 | [Runway](notes/paper-horse-6-30-23.md)                 |
 | 7/1/23   |      8202 |                                                        |
 | 7/2/23   |      9294 | [Nope](notes/paper-horse-7-02-23.md)                   |
+| 7/6/23   |    10,445 |                                                        |
+| 7/7/23   |    12,498 |                                                        |
+| 7/8/23   |    14,280 |                                                        |
 
 
 >[!Warning]+Notice
