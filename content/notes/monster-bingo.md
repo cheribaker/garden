@@ -17,7 +17,7 @@ Joe Wynn made a bingo card for The Tingler. I don't have a copy.
 ![[notes/images/MonsterdonBingo3.jpg]]
 
 
-## Card (The Giant Claw)
+## Card 4 (The Giant Claw)
 ![[/notes/images/MonsterdonBingo4.jpg]]
 
 

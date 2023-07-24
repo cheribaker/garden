@@ -14,9 +14,8 @@ weight: 0
 
 > [!Info]+Status
 >
-> First draft complete! 🎉 
+>Edits Underway
 > 
-> I'm letting the book rest for a bit before I start edits.
 
 >[!Example]- Project Plan
 > 

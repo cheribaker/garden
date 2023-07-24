@@ -25,7 +25,7 @@ weight: 0
 
 > [!Info]-Status
 >
- > Deleted my old crappy draft. Starting fresh on 6/28/23
+ > First Draft Underway
 
 >[!Example]- Project Plan
 > 

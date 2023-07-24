@@ -22,6 +22,7 @@ Hello and welcome. My name is [Cheri](https://cheribaker.com/pages/about-the-aut
 
 ##  **Godzilla & Other Monsters** 🏯
 * [Monster Movie Watch Log](/notes/monster-watch.md)
+* [Monsterdon Bingo Archive](/notes/monster-bingo.md)
 
 ##  **Publishing** 📖
 
