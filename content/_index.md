@@ -1,9 +1,10 @@
 
-Hello and welcome. My name is [Cheri](https://cheribaker.com/pages/about-the-author) and you've found my digital garden, the Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. I maintain this site mostly as a reference for myself, but you're welcome to wander around and smell the flowers.
+Hello and welcome. My name is [Cheri](https://cheribaker.com/pages/about-the-author) and you've found my digital garden, the Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. I maintain this site mostly as a reference for myself, but you're welcome to smell the flowers.
 
-## My Projects ☕
-- [Project Mars](/notes/project-mars.md)
+## My Current Projects ☕
+- [Outlaw Justice](/notes/project-mars.md)
 - [The Case of the Paper Horse](/notes/paper-horse.md)
+- [Space Opera #2]
 
 ## **Creative Writing Stuff** ✍🏻
 
