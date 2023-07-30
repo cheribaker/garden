@@ -7,8 +7,6 @@ tags:
 weight: 0
 ---
 
-Note: I'm having difficulty configuring Alt Text on this website. For versions with Alt Text please see my posts on Mastodon.
-
 ## Card 1 (Godzilla vs Destroyah)
 ![[notes/images/MonsterdonBingo.jpg]]
 
@@ -23,7 +21,10 @@ Someone else made this card and I don't have a copy.
 ## Card 4 (The Giant Claw)
 ![[/notes/images/MonsterdonBingo4.jpg]]
 
+🔗 [Click here for Card 4 with Alt Text](https://writing.exchange/@cheribaker/110765201792265752)
+
 ## Card 5 (The Brain Eaters)
 
 ![[/notes/images/MonsterdonBingo5.jpg]]
 
+🔗 [Click here for Card 5 with Alt Text](https://writing.exchange/@cheribaker/110804995534337511)
