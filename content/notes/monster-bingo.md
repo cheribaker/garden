@@ -12,7 +12,7 @@ weight: 0
 
 ## Card 2 (The Tingler)
 
-Someone else made this card and I don't have a copy.
+coming soon
 
 ## Card 3 (Planet of the Vampires)
 ![[notes/images/MonsterdonBingo3.jpg]]
@@ -28,3 +28,7 @@ Someone else made this card and I don't have a copy.
 ![[/notes/images/MonsterdonBingo5.jpg]]
 
 🔗 [Click here for Card 5 with Alt Text](https://writing.exchange/@cheribaker/110804995534337511)
+
+## Card 6 (Queen of Blood)
+
+![[/notes/images/MonsterdonBingo6.jpg]]
