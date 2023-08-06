@@ -32,3 +32,5 @@ coming soon
 ## Card 6 (Queen of Blood)
 
 ![[/notes/images/MonsterdonBingo6.jpg]]
+
+🔗 [Click here for Card #6 with Alt Text](https://writing.exchange/@cheribaker/110844901947730679)
