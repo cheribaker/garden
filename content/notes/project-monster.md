@@ -17,23 +17,6 @@ weight: 0
 >
 > Preparing
 
->[!Example]- Project Plan
-> 
-> * ~~Story Concept (series)~~
-> * ~~Story Concept (book)~~
-> * Cover Art
-> * Book Design (fonts & styles)
-> * Major Plot Points (in progress)
-> * Main Characters (in progress)
-> * Set Up Files & Folders
-> * First Draft 
-> * Revisions
-> * Copyedit
-> * Beta Feedback
-> * Final Proofread
-> * Production
-
-
 >[!Important]- Research
 >
 >TBD
@@ -45,6 +28,6 @@ weight: 0
 > 
 
 
-## WIP Notes
+### Notes
 
 4/2023 - Just doing some prep work for the future. I wish I had more hours in the day!

@@ -1,9 +1,10 @@
 ---
-title: "Monster Movie Log"
-subtitle: "also includes B movies"
+title: Monster Movie Log
+subtitle: also includes B movies
 tags:
-- godzilla
-- movies
+  - godzilla
+  - movies
+  - Monsterdon
 weight: 0
 ---
 
@@ -18,14 +19,77 @@ Sometimes I watch these movies live with other fans on [Mastodon](https://writin
 
 ## 2023
 
+ * **09/24/23 - Godzilla and Mothra: The Battle for Earth (M)** 
+ 
+	- 1992
+	- [IMDb](https://www.imdb.com/title/tt0104352)
+
+ * **09/17/23 - The Blob (M)**
+ 
+	- 1958
+	- Featuring Steve McQueen as the world's oldest teen.
+	- [IMDb](https://www.imdb.com/title/tt0051418/)
+
+ * **09/10/23 -The Stuff (M)** 
+ 
+	- 1985
+	- Delicious goo with the power of marketing.
+	- [IMDb](https://www.imdb.com/title/tt0090094/)
+
+ * **09/03/23 - The Thing from Another World (M)** 
+ 
+	- 1951
+	- Surprisingly great.
+	- [IMDb](https://www.imdb.com/title/tt0044121)
+
+ * **08/27/23 - Octaman (M)** 
+ 
+	- 1971
+	- He's a lover, not a fighter.
+	- [IMDb](https://www.imdb.com/title/tt0067515/)
+
+ * **08/20/23 - Day of the Triffids (M)** 
+ 
+	- 1962
+	- (I missed this one)
+	- [IMDb](https://www.imdb.com/title/tt0055894/)
+
+-  **08/13/23 - Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (M)** 
+
+	-  2001
+	- Excellent team-ups! Very fun.
+	- [IMDb](https://www.imdb.com/title/tt0279112/?ref_=fn_al_tt_3)
+
+-  **08/06/23 - Queen of Blood (M)** 
+
+	- 1966
+	- Campy and bizarre.
+	- [IMDb](https://www.imdb.com/title/tt0060877/)
+
+ * **07/30/23 - The Brain Eaters (M)** 
+ 
+	- 1958
+	- Beware the cone.
+	- [IMDb](https://www.imdb.com/title/tt0051432/)
+
  * **07/23/23 - The Giant Claw (M)** 
+ 
 	- 1957
+	- What a goofy-ass monster!
+	- [IMDb](https://www.imdb.com/title/tt0050432/?ref_=fn_al_tt_1)
 
  * **07/16/23 - Planet of the Vampires (M)** 
+ 
 	- 1965
+	- Contains no vampires. Sets are awesome though.
+	- [IMDb](https://www.imdb.com/title/tt0059792)
+
 
  * **07/09/23 - The Tingler (M)** 
-	- 1956
+ 
+	- 1959
+	- Vincent Price. What else do you need?
+	- [IMDb](https://www.imdb.com/title/tt0053363)
 
  * **06/18/23 - Invasion of the Body Snatchers (M)** 
 	- 1956

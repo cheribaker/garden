@@ -14,7 +14,7 @@ weight: 0
 
 > [!Info]+Status
 >
->Edits Underway
+> Complete: Book will publish on 9/29/23
 > 
 
 >[!Example]- Project Plan
@@ -28,7 +28,7 @@ weight: 0
 > * ~~Set Up Files & Folders~~
 > * [Playlist](/notes/space-opera-playlist.md)
 > * ~~First Draft~~
-> * Revisions
+> * ~~Revisions
 > * Copyedit
 > * Beta Feedback
 > * Final Proofread
@@ -56,26 +56,6 @@ weight: 0
 > 	* ... a world of sulfur, acids, magnesium, iron and chlorine compounds, all of which are sunbaked and wrapped in a carbon-dioxide-rich atmosphere.
 > 	* Morie suspects that the predominant Mars odor is a slightly acrid, gassy smell of sulfur compounds, with a chalky, sweet overtone punching through.
 >
-
-
->[!Summary]- Book Description
-> 
-> (**First Draft**)
->
-> **Mars hasn't had a murder in 70 years. Until today.**  
->
->After her parents perished in an accident, Loretta Ryder marveled as the Martian community rallied around her. In giving her a home and a purpose, and in providing her with an outstanding education, Mars fulfilled the promise that the founders had made more than a hundred years before.
->
->*Community. Justice. Scientific Exploration.*
->
->In gratitude, Loretta chose a career of public service. As a member of the Martian Diplomatic Corps, she resolves disputes and manages security concerns for her district. She may not be a skilled pilot, like her friend Kacy, or a successful politician, like her adopted father Cayden, but her talents as a mediator and weapons trainer have earned her a certain respect among her peers. Now, Loretta has set her sight on a new goal, becoming the youngest Arbitrator in Martian history.
->
->Mars itself is at an inflection point. Soon, citizens will vote to extend or extinguish the century-old Martian Charter. With tensions running high, and with rabble-rousers demanding a new constitution, providing fair and impartial leadership has never been more important.
->
-> Tensions escalate further when a botanist is found dead in her laboratory. As the murder rocks the peaceful scientific community, news of a rising terrorist threat comes to light. As an arbiter, words and patience have always been Loretta's most powerful weapons. Yet when words fail and when all promises have been irrevocably broken...
->
-> A single, desperate act will spark a revolution, one destined to change humanity's future among the stars.
-> 
 
 
 

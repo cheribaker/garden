@@ -6,7 +6,7 @@ Because I get more done when I track these things. 🧐
 
 | Title                                             | Words | Status      |
 |:------------------------------------------------- |:----- |:----------- |
-| [Shadow of a Doubt](/notes/shadow-doubt)          | 19550 | First Draft |
+| [Shadow of a Doubt](shadow-doubt.md)          | 19550 | First Draft |
 | [Project Mars](/notes/project-mars)               | 1251  | First Draft |
 | [The Case of the Paper Horse](/notes/paper-horse) | 1121  | First Draft |
 | The Gig Economy                                   | 6852  | First Draft | 

@@ -2,9 +2,12 @@
 Hello and welcome. My name is [Cheri](https://cheribaker.com/pages/about-the-author) and you've found my digital garden, the Literary Monster. This site is a semi-organized heap of my public notes, bookmarks, and projects-in process. I maintain this site mostly as a reference for myself, but you're welcome to smell the flowers.
 
 ## My Current Projects ☕
-- [Outlaw Justice](/notes/project-mars.md)
 - [The Case of the Paper Horse](/notes/paper-horse.md)
-- [Space Opera #2]
+- [The Hard Way Home](/notes/hard-way-home.md)
+
+##  **Godzilla & Other Monsters** 🏯
+* [Monster Movie Watch Log](/notes/monster-watch.md)
+* [Monsterdon Bingo Archive](/notes/monster-bingo.md)
 
 ## **Creative Writing Stuff** ✍🏻
 
@@ -18,13 +21,6 @@ Hello and welcome. My name is [Cheri](https://cheribaker.com/pages/about-the-aut
 - [Books about Writing](/notes/books-about-writing.md)
 - [Prepare to Write a Novel, Step by Step](/notes/prep-a-novel.md)
 
-## **Domesticity** 🏡
-- [Recipe List](/notes/recipe-list.md)
-
-##  **Godzilla & Other Monsters** 🏯
-* [Monster Movie Watch Log](/notes/monster-watch.md)
-* [Monsterdon Bingo Archive](/notes/monster-bingo.md)
-
 ##  **Publishing** 📖
 
 **Audiobooks**
@@ -32,6 +28,9 @@ Hello and welcome. My name is [Cheri](https://cheribaker.com/pages/about-the-aut
 
 **Direct Sales**
 - [Setting up an E-commerce Bookstore](/notes/direct-sales.md)
+
+## **Domesticity** 🏡
+- [Recipe List](/notes/recipe-list.md)
 
 ## **Seattle** 🏙️
 - [Cultural Touchstones](/notes/culture.md)
